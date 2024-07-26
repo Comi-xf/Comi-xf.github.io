@@ -1,11 +1,11 @@
 # Site settings
-title: Zwei’s Blog
-SEOTitle: Zwei's Blog
-header-img: img/pdao.jpg
-email: post@zwei.de.eu.org
-description: "这里是 @Zwei 的个人博客，与你一起发现更大的世界 | 我要学知识！"
-keyword: "CS, Deutsch, AI, 德语, 信息安全, 全栈, Zwei, @Zwei, Zwei的博客, Zwei's Blog, 博客, 个人网站, 互联网 ,计算机, 信息安全, Web, JavaScript, 前端, 大学生"
-url: "https://zwei.de.eu.org" # your host, for absolute URL
+title: Comi 曦方
+SEOTitle: Comi 曦方
+header-img: img/home.jpg
+email: comi@disroot.org
+description: "这里是 @Comi曦方 的个人博客"
+keyword: "左翼,翻译,文章,Communism,Maoist,Soviet,Marxism"
+url: "https://comi.is-local.org" # your host, for absolute URL
 baseurl: "" # for example, '/blog' if your blog hosted on 'host/blog'
 
 # Publish posts or collection documents with a future date.
@@ -15,7 +15,7 @@ future: true
 RSS: false
 # weibo_username: null
 # zhihu_username: null
-github_username: bestZwei
+# github_username: null
 # twitter_username: null
 #facebook_username:  null
 #linkedin_username:  firstname-lastname-idxxxx
@@ -59,7 +59,7 @@ kramdown:
       start_line: 1
 
 # Disqus settings
-disqus_username: ZWEI
+disqus_username: COMI
 
 # Netease settings
 netease_comment: false
@@ -70,11 +70,11 @@ netease_comment: false
 
 # Google Analytics
 ga_track_id: "UA-49627206-1" # Format: UA-xxxxxx-xx
-ga_domain: zwei.de.eu.org
+ga_domain: comi.is-local.org
 # Sidebar settings
 sidebar: true # whether or not using Sidebar.
-sidebar-about-description: "萌新程序员 <br> 准大三打工人 <br> post@zwei.de.eu.org"
-sidebar-avatar: https://s21.ax1x.com/2024/07/02/pkguIN4.md.jpg # use absolute URL, seeing it's used in both `/` and `/about/`
+sidebar-about-description: "打酱油ing <br> comi@disroot.org"
+sidebar-avatar: https://i.postimg.cc/nrGRqfwW/head.jpg # use absolute URL, seeing it's used in both `/` and `/about/`
 
 # Featured Tags
 featured-tags: true # whether or not using Feature-Tags
@@ -88,7 +88,9 @@ service-worker: true
 page-mathjax: false
 
 # Friends
-friends:
-  [
-    { title: "Charliez0", href: "https://github.com/charliez0" },
+{
+  "friends": [
+    { "title": "远方来信", "href": "https://www.zhihu.com/people/yuanfanglaixin" },
+    { "title": "红色影像及实践", "href": "https://space.bilibili.com/451414993/" }
   ]
+}
