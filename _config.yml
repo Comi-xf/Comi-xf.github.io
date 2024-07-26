@@ -19,6 +19,7 @@ zhihu_username: comi-91-30
 # twitter_username: null
 #facebook_username:  null
 #linkedin_username:  firstname-lastname-idxxxx
+bilibili_username: 2092779975 #your_bilibili_id
 
 # Build settings
 # from 2016, 'pygments' is unsupported on GitHub Pages. Use 'rouge' for highlighting instead.
