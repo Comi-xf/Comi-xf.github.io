@@ -14,7 +14,7 @@ future: true
 # SNS settings
 RSS: false
 # weibo_username: null
-# zhihu_username: null
+zhihu_username: Comi曦方
 # github_username: null
 # twitter_username: null
 #facebook_username:  null
@@ -71,6 +71,7 @@ netease_comment: false
 # Google Analytics
 ga_track_id: "UA-49627206-1" # Format: UA-xxxxxx-xx
 ga_domain: comi.is-local.org
+
 # Sidebar settings
 sidebar: true # whether or not using Sidebar.
 sidebar-about-description: "打酱油ing <br> comi@disroot.org"
@@ -88,9 +89,8 @@ service-worker: true
 page-mathjax: false
 
 # Friends
-{
-  "friends": [
-    { "title": "远方来信", "href": "https://www.zhihu.com/people/yuanfanglaixin" },
-    { "title": "红色影像及实践", "href": "https://space.bilibili.com/451414993/" },
-  ]
-}
+friends:
+  - title: "远方来信"
+    href: "https://www.zhihu.com/people/yuanfanglaixin"
+  - title: "红色影像及实践"
+    href: "https://space.bilibili.com/451414993/"
