@@ -1,11 +1,11 @@
 # Site settings
 title: Comi 曦方
 SEOTitle: Comi 曦方
-header-img: img/home.jpg
+header-img: https://i.postimg.cc/cC1w0875/home.jpg
 email: comi@disroot.org
 description: "这里是 @Comi曦方 的个人博客"
 keyword: "左翼,翻译,文章,Communism,Maoist,Soviet,Marxism"
-url: "https://comi-xf.github.io" # your host, for absolute URL
+url: "" # your host, for absolute URL https://comi-xf.github.io
 baseurl: "" # for example, '/blog' if your blog hosted on 'host/blog'
 
 # Publish posts or collection documents with a future date.
