@@ -5,7 +5,7 @@ header-img: img/home.jpg
 email: comi@disroot.org
 description: "这里是 @Comi曦方 的个人博客"
 keyword: "左翼,翻译,文章,Communism,Maoist,Soviet,Marxism"
-url: "https://comi.is-local.org" # your host, for absolute URL
+url: "https://comi-xf.github.io" # your host, for absolute URL
 baseurl: "" # for example, '/blog' if your blog hosted on 'host/blog'
 
 # Publish posts or collection documents with a future date.
