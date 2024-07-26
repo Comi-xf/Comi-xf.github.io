@@ -1,7 +1,7 @@
 # Site settings
 title: Comi 曦方
 SEOTitle: Comi 曦方
-header-img: img/home.jpg
+header-img: https://i.postimg.cc/W1jYpztP/home.jpg
 email: comi@disroot.org
 description: "这里是 @Comi曦方 的个人博客"
 keyword: "左翼,翻译,文章,Communism,Maoist,Soviet,Marxism"
@@ -14,7 +14,7 @@ future: true
 # SNS settings
 RSS: false
 # weibo_username: null
-zhihu_username: Comi曦方
+zhihu_username: comi-91-30
 # github_username: null
 # twitter_username: null
 #facebook_username:  null
