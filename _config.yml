@@ -5,7 +5,7 @@ header-img: img/home.jpg
 email: comi@disroot.org
 description: "这里是 @Comi曦方 的个人博客"
 keyword: "左翼,翻译,文章,Communism,Maoist,Soviet,Marxism"
-url: "https://comi-xf.github.io" # your host, for absolute URL 
+url: "https://comi.nets.hk" # your host, for absolute URL 
 baseurl: "" # for example, '/blog' if your blog hosted on 'host/blog'
 
 # Publish posts or collection documents with a future date.
@@ -71,7 +71,7 @@ netease_comment: false
 
 # Google Analytics
 ga_track_id: "UA-49627206-1" # Format: UA-xxxxxx-xx
-ga_domain: comi.is-local.org
+ga_domain: comi.nets.hk
 
 # Sidebar settings
 sidebar: true # whether or not using Sidebar.
