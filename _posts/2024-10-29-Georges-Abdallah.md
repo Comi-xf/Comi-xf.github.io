@@ -52,6 +52,8 @@ tags:
 
 向你们所有同志和朋友致以我最热烈的革命问候。
 
-你们的同志 乔治·阿卜杜拉
+你们的同志——乔治·阿卜杜拉
 
-2024年10月26日原文：https://liberonsgeorges.samizdat.net/ses-declarations/declaration-de-georges-abdallah-26-octobre-2024/
+2024年10月26日
+
+原文：https://liberonsgeorges.samizdat.net/ses-declarations/declaration-de-georges-abdallah-26-octobre-2024/
