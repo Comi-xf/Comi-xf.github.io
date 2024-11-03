@@ -1,7 +1,7 @@
 ---
 layout:     post
 title:     "【翻译中】解放塞浦路斯"
-subtitle:   "解放西亚和北非-终结帝国主义"
+subtitle:   "自由西亚和北非-终结帝国主义"
 date:       2024-10-29
 author:     "Comi"
 catalog:    true
@@ -14,50 +14,55 @@ tags:
     - 帝国主义
 ---
 
-#### WHY CYPRUS MATTERS
+#### 塞浦路斯为何重要
 
-In a debate in the United Kingdom Parliament on Cyprus held on 28 July 1954, the Minister of State for Colonial Affairs, **Henry Hopkinson**, stated repeatedly that the question of independence did not arise in the case of Cyprus. He explained that “nothing less than continued sovereignty over this island can enable Britain to carry out her strategic obligations to Europe, the Mediterranean and the Middle East.”
+1954年7月28日，英国议会就塞浦路斯问题举行辩论，殖民地事务国务大臣**亨利·霍普金森**反复强调塞浦路斯的独立问题不存在。。他解释说，“只有继续对这个岛屿保持主权，英国才能履行其对欧洲、地中海和中东的战略义务。”
 
-The island Hopkinson referred to is also known as the **“unsinkable aircraft carrier”** by colonialists. It is located just 45 miles from Turkey, 65 miles from Syria, 125 miles from Palestine, and 230 miles from Egypt. Despite being a member state of the European Union and occupied by NATO today, Cyprus was one of the founding members of the **Non-Aligned Movement** after gaining independence in 1960. It stood with nations fighting for liberation in the era of anti-colonial struggles.
+霍普金森提到的这个岛屿被殖民者称为**“永不沉没的航空母舰”**。它距土耳其仅45英里，距叙利亚65英里，距巴勒斯坦125英里，距埃及230英里。尽管现在是欧盟成员国并被北约占领，但塞浦路斯在1960年获得独立后是**不结盟运动**的创始成员之一。在反殖民斗争时代，它与争取解放的国家站在一起。
 
-Like many other places around the world, Cyprus has a complex and painful history shaped by colonialism and imperialism. However, what sets this island apart is the uninterrupted foreign military occupations it has endured for centuries, because of its geopolitical and strategic importance.
+像世界上许多其他地方一样，塞浦路斯也有着由殖民主义和帝国主义塑造的复杂而痛苦的历史。然而，这个岛屿的独特之处在于，由于它的地缘政治和战略重要性，经历了数世纪不间断的外国军事占领。
 
-Today, less than 60 percent of the island is controlled by the legitimate government of Cyprus. The rest is occupied by Turkey since 1974 after a **NATO-planned operation**, by the United Kingdom as its major military base in the region, and by the United Nations’ demilitarized buffer zone that was established after foreign-backed ethnicist paramilitary activities on the island.
+如今，塞浦路斯合法政府控制的领土不到全岛60%。其余地区自1974年以来被土耳其通过**北约策划的行动**占领、被英国作为在该地区的主要军事基地占领，以及由联合国建立的非军事化缓冲区，这是在岛上发生外国支持的种族民兵活动后建立的。
 
-In his historic speech at the General Assembly of the United Nations held on 11 December 1964, **Che Guevara** spoke about some of these activities, saying **“peaceful coexistence has also been brutally put to the test in Cyprus, due to pressures from the Turkish Government and NATO.”**
+1964年12月11日，**切·格瓦拉**在联合国大会的历史性讲话中谈到了其中一些活动，他说：**“由于土耳其政府和北约的压力，和平共处在塞浦路斯也受到了残酷的考验”。**
 
-However, mainstream political actors continue to present what is happening in Cyprus merely as a “division” between Greek-speaking and Turkish-speaking Cypriots, instead of an imperialist occupation. The creation of this false perception began with the **divide-and-rule** strategy of the British and continued with their systematic war against the anti-imperialist and progressive movement of Cypriot nationalism, or Cypriotism, from the 1930s. Today, the war against people who fight for a free Cyprus without separation or segregation continues by imperialists and their “bicommunal bizonal federationist” and “two-statist” fronts on the island.
+然而，主流政治行为者继续将塞浦路斯发生的事情仅仅描述为希腊语系和土耳其语系塞浦路斯人之间的“分裂”，而不是帝国主义占领。这种错误认知的形成始于英国的“**分而治之**”策略，并延续到他们从1930年代开始对塞浦路斯民族主义或塞浦路斯主义的反帝国主义和进步运动的系统性战争。如今，帝国主义者及岛上的“两族两区联邦主义”和“双国主义”阵线仍在继续与那些争取没有分裂或隔离的自由塞浦路斯的人们作战。
 
-In just a few decades, this small land has witnessed colonialism, liberation struggles, independence, coup d’état, occupation, forced displacements, settler colonialism, crimes against humanity, and apartheidist “solution” proposals dictated by imperialists. The intense efforts to distract the international community from what is happening on this island show that the “Cyprus issue” is not an issue of Cypriots. Because when we talk about the liberation of Cyprus, we are actually talking about the freedom of all **West Asia and North Africa**, as well as cutting off the windpipe of imperialism in the whole region.
+在短短几十年内，这片小土地经历了殖民统治、解放斗争、独立、政变、占领、强制迁移、殖民者定居、反人类罪行以及帝国主义者强加的种族隔离式“解决方案”。为转移国际社会对该岛正在发生的事情的注意力而进行的激烈努力表明，“塞浦路斯问题”不是塞浦路斯人的问题。因为当我们谈论塞浦路斯的解放时，我们实际上是在谈论整个**西亚和北非**的自由，以及切断帝国主义在整个地区的咽喉。
 
-#### STRATEGIC IMPORTANCE AND HISTORY OF CYPRUS
+#### 塞浦路斯的战略重要性和历史
 
-**“Aircraft carriers are the most effective tool to project power,”** states an article published by the U.S. Navy on the 100th anniversary of the first American-built aircraft carrier. However, today, there is something even more effective than these man-made platforms – unsinkable aircraft carriers, such as geostrategic islands that extend the power projection.
-Situated at the junction of three continents – Europe, Asia, and Africa – the island of Cyprus has historically been ruled by various foreign powers, including Assyrians, Egyptians, Persians, Romans, Arabs, Knights Templar, Lusignans, Venetians, Ottomans, and British, all with the goal of dominating the Mediterranean and the Middle East.
+**“航空母舰是投射力量最有效的工具，”**美国海军在首艘美造航空母舰百年纪念时发表的一篇文章如是说。然而，今天有比这些人造平台更有效的东西——永不沉没的航空母舰，比如能够扩展力量投射的地缘战略岛屿。
 
-The historical period that affects the island today began with the Ottoman conquest of Cyprus from the Venetians in 1571. As in many other places they conquered, the Ottomans aimed to create a “loyal minority” in Cyprus. The Orthodox population, which was oppressed under the Catholic Venetian rule, was granted privileges by the Ottomans, while the Catholic population was forced to convert to Islam. This, along with additional taxes imposed on non-Muslims, created the crypto-Christian community of Linobambaki, the biggest sociocultural element of today’s ultra-secular Turkish-speaking Cypriots.
+塞浦路斯岛位于欧洲、亚洲和非洲三大洲的交汇处，历史上曾被多个外国势力统治，包括亚述人、埃及人、波斯人、罗马人、阿拉伯人、圣殿骑士团、卢西尼亚王朝、威尼斯人、奥斯曼人和英国人，他们的目标都是称霸地中海和中东地区。
 
-The **first significant Cypriot national liberation movement** occurred in 1833 with the rise of national consciousness after the **French Revolution**. The largest independence struggle against the Ottoman Empire was led by a Turkish-speaking Cypriot, Ibrahim Agha of Polis, also known as Gavur Imam, who united the Greek-speaking and Turkish-speaking Cypriots, mostly peasants, in order to liberate Cyprus. Although the Cypriots put up a heroic fight, the Ottomans won the war with the help of the Orthodox Church. The **Gavur Imam Revolt** has been considered an important part of history for Marxists and revolutionaries because it was a movement of peasants and the oppressed against colonialism and its lackeys.
+影响今天这个岛屿的历史时期始于1571年奥斯曼帝国从威尼斯人手中征服塞浦路斯。与他们征服的许多其他地方一样，奥斯曼人试图在塞浦路斯建立一个“忠诚的少数群体”。在天主教威尼斯统治下受压迫的东正教人口获得了奥斯曼帝国的特权，而天主教人口被迫改信伊斯兰教。这种情况下，加上对非穆斯林征收额外税收，创造了利诺班巴基[^1]（Linobambaki）秘密基督徒社群，这是今天极度世俗化的讲土耳其语的塞浦路斯人最大的社会文化元素。
 
-During its decline, the Ottoman Empire leased Cyprus to Great Britain under the Cyprus Convention in **1878**. Cyprus was particularly important to Britain at that time because of its strategic location for controlling the **Suez Canal**. After the Ottoman Empire joined the Central Powers in the First World War, the British Empire formally annexed Cyprus in **1914**. Unlike the Ottomans, who did not use ethnic terminology to divide Cypriots in censuses and administrative purposes, the British implemented a divide-and-rule policy among Cypriots, to counter the rise of **Cypriot nationalism**. During this time, while Orthodox Christians were considered Greeks, all Muslims were categorized as Turks – a term introduced to Cypriot society for the first time. The British also brought teachers from Greece and newly-established Turkey to promote ethnicist ideas among Cypriots, such as **Enosis** (annexation of Cyprus to Greece) and **Taksim** (partition of Cyprus).
+**第一次重要的塞浦路斯民族解放运动**发生在1833年，这是**法国大革命**后民族意识觉醒的结果。反对奥斯曼帝国的最大规模独立斗争由一位讲土耳其语的塞浦路斯人、被称为“异教徒伊玛目”的波利斯的易卜拉欣·阿迦领导，他团结了讲希腊语和讲土耳其语的塞浦路斯人（主要是农民）以解放塞浦路斯。尽管塞浦路斯人英勇抗争，但奥斯曼人在东正教会的帮助下赢得了战争。**加武尔·伊玛目起义**[^2]对马克思主义者和革命者而言一直被视为重要的历史事件，因为这是一场农民和被压迫者反对殖民主义及其走狗的运动。
 
-Having been impacted by the **Great Depression of 1929**, groups among the Greek-speaking Cypriots revolted in 1931 with the motive of Enosis. The later-banned Communist Party of Cyprus participated in this revolt with the demand for autonomy, opposing the Enosis which they deemed “counter-revolutionary.” Subsequently, in 1933, the United Kingdom appointed **Richmond Palmer**, leading to a period of autocratic British colonial rule known as “Palmerocracy.” On 23 October 1936, the British colonial governor, Richmond Palmer, wrote in his report to London:
+在奥斯曼帝国衰落时期，奥斯曼帝国根据**1878年**的塞浦路斯公约将塞浦路斯租借给英国。当时塞浦路斯对英国特别重要，因为它地理位置优越，方便控制**苏伊士运河**。第一次世界大战期间奥斯曼帝国加入同盟国后，英帝国于**1914年**正式吞并了塞浦路斯。与奥斯曼人不同的是，奥斯曼人在人口普查和行政管理中并不使用族裔术语来区分塞浦路斯人，而英国人为了对抗**塞浦路斯民族主义**的兴起，在塞浦路斯人中实施了分而治之的政策。在此期间，东正教徒被视为希腊人，所有穆斯林都被归类为土耳其人——这个术语是首次引入塞浦路斯社会。英国人还从希腊和新成立的土耳其带来教师，在塞浦路斯人中推广族裔主义思想，如**“合并”（Enosis；将塞浦路斯并入希腊）**和**“分治”（Taksim；分割塞浦路斯）**。
 
-“In order to have ease in the future on the island, we have to continue the administration on the basis of exceptis excipiendis (opening the way to exceptions), on the basis of districts. Thus the concept of Cypriot nationalism – which will be emerging as a new concept after Enosis becomes an eroded value – should be pushed away as much as possible and left in the dark.”
+受**1929年大萧条**影响，1931年讲希腊语的塞浦路斯人中的一些群体以“合并”为动机发动了起义。后来被取缔的塞浦路斯共产党[^3]参与了这次起义，要求自治，反对他们认为“反革命”的“合并”。随后，1933年英国任命**里士满·帕默**[^4]为塞浦路斯总督，开启了一个被称为“帕默专制”的英国殖民专制统治时期。1936年10月23日，英国殖民总督里士满·帕默在给伦敦的报告中写道：
 
-Despite the unity of the Cypriots, as seen in the **1948 miners’ strike**, the divide-and-rule tactics employed by the British resulted in a different outcome for Cyprus compared to other anti-colonial struggles. Unlike in other parts of the world, the major armed struggle in Cyprus during the 1950s did not aim for independence but for Enosis. In 1952, NATO accepted Turkey and Greece into the alliance as a result of the **Truman Doctrine** and the crises between Turkey and the Soviet Union over the Turkish Straits, which connect the Black Sea to the Mediterranean. With this first NATO expansion, the United States ensured the safety of its **Sixth Fleet** in Eastern Europe and the Middle East. In **1955**, the **EOKA** organization initiated an armed struggle against the British for Enosis. This was also the year that Archbishop Makarios, the future President of Cyprus, attended the anti-colonial **Bandung Conference**. As the armed struggle of EOKA, composed mainly of Greek-speaking Cypriots, continued, the British colonial administration hired Turkish-speaking Cypriots for its police force to create tension within the Cypriot society. Meanwhile, the British also helped establish **TMT**, a paramilitary organization composed of Turkish-speaking Cypriots, to oppress the Turkish-speaking Cypriots who fought for independence. During this period, TMT was responsible for assassinating progressives and socialists, including **Fazıl Önder**, the owner and editor of İnkılâpçı (Revolutionary) newspaper.
+“为了让岛上的未来更加轻松，我们必须继续在除了例外情况的基础上、以地区为基础进行管理。因此，塞浦路斯民族主义的概念——在“合并”成为一种被侵蚀的价值之后将作为一个新概念出现——也应该被尽可能地推到一边并丢在黑暗中。”
 
-By the late 1950s, the British were unable to suppress the armed struggle, so they wanted to find a solution that would not destabilize NATO. Therefore, Greece and Turkey were included in the London and Zurich Agreements that made Cyprus a unitary and **consociational** republic, with power-sharing between Greek-speaking and Turkish-speaking Cypriots. Also, the United Kingdom retained control of two areas in Cyprus and was granted the right to intervene militarily on the island, alongside Greece and Turkey.
+---
 
-The **Republic of Cyprus** was established on 16 August 1960, with Greek-speaking Cypriot Archbishop Makarios serving as the President and Turkish-speaking Cypriot Fazıl Küçük as the Vice-President. The new leaders of the republic chose the designs by İsmet Güney, a Turkish-speaking Cypriot artist, as the **national flag** and **coat of arms of Cyprus** to symbolize Cypriot unity.
+未翻译部分
 
-One year later, the Republic of Cyprus became a founding member of the **Non-Aligned Movement**. The respect that Makarios had in the anti-imperialist world earned him the nickname the “Castro of the Mediterranean” by American politicians.
+尽管塞浦路斯人表现出团结，如1948年矿工罢工所示，但英国人采用的分而治之策略使塞浦路斯的结果与其他反殖民斗争不同。与世界其他地方不同，1950年代塞浦路斯的主要武装斗争目标不是独立，而是统一。1952年，由于杜鲁门主义和土耳其与苏联在连接黑海和地中海的土耳其海峡的危机，北约接纳土耳其和希腊加入联盟。通过这第一次北约扩张，美国确保了其第六舰队在东欧和中东的安全。1955年，EOKA组织发起了反对英国争取统一的武装斗争。这一年，未来的塞浦路斯总统马卡里奥斯大主教也参加了反殖民的万隆会议。随着主要由讲希腊语的塞浦路斯人组成的EOKA的武装斗争继续，英国殖民政府雇用讲土耳其语的塞浦路斯人加入其警察部队，以在塞浦路斯社会制造紧张局势。同时，英国人还帮助建立了由讲土耳其语的塞浦路斯人组成的准军事组织TMT，以镇压为独立而战的讲土耳其语的塞浦路斯人。在此期间，TMT负责暗杀进步人士和社会主义者，包括《革命报》的所有者和编辑法齐尔·昂德尔。
 
-In **1963**, Makarios wanted to unilaterally change the consociational constitution, but this was opposed by the Turkish-speaking Cypriot leadership who subsequently left the government. The government of Turkey that was under the left-leaning military movement of the 27 May Revolution, opposed the decision of the Turkish-speaking Cypriot leadership. The anti-imperialist Turkish-speaking Cypriot prominent figures who supported the existence of the Republic of Cyprus or opposed the decision to leave the government, such as **Ayhan Hikmet, Ahmet Muzaffer Gürkan, Derviş Ali Kavazoğlu and İhsan Ali**, were targeted by TMT. In August 1964, Turkish government also changed its progressive Cyprus policy parallel to decreasing the impact of the 27 May Revolution within Turkey and organized a failed landing operation with the logistical help of the British army in the Tillyria region of Cyprus. This operation was similar to the US-organized **“Bay of Pigs Invasion”** in Cuba. Anti-imperialist world leaders and revolutionaries, including Che Guevara, condemned the operation.
+到1950年代末，英国无法镇压武装斗争，所以他们想找到一个不会破坏北约的解决方案。因此，希腊和土耳其被纳入伦敦和苏黎世协议，这些协议使塞浦路斯成为一个统一的共治共和国，讲希腊语和讲土耳其语的塞浦路斯人共同分享权力。此外，英国保留了塞浦路斯的两个地区的控制权，并与希腊和土耳其一起获得了在岛上进行军事干预的权利。
 
-In **1967**, the US-backed military junta seized power in Greece. This right-wing military dictatorship helped create the **EOKA-B** organization in Cyprus against the Makarios leadership that was perceived as a problem for the West. In 1971, Greece and Turkey formulated and agreed upon a plan against non-aligned Cyprus at the **NATO Foreign Ministers’ meeting in Lisbon**. The plan made in Lisbon was put into action in 1974. On **15 July 1974**, Greece organized a coup d’état in Cyprus with the help of the EOKA-B organization. Right after the coup, Turkey started its first invasion of Cyprus on **20 July 1974**, using the excuse of “protecting the constitutional order in Cyprus” according to the London and Zurich Agreements. Within a few days, the military junta collapsed, the coup was over, and the leaders met in Geneva. During the Geneva conferences that aimed at resolving the situation in Cyprus, Turkey demanded that the Cypriot government accept its plan for a federal state and population transfer. According to White House records, during his meeting with President Gerald Ford regarding the developments in Cyprus on 13 August 1974, **Henry Kissinger** said, **“there is no American reason why the Turks should not have one-third of Cyprus.”** Unable to get positive feedback for its demand in Geneva, Turkey started a second invasion on 14 August 1974.
+塞浦路斯共和国于1960年8月16日成立，讲希腊语的塞浦路斯大主教马卡里奥斯担任总统，讲土耳其语的塞浦路斯人法齐尔·库丘克担任副总统。共和国的新领导人选择了讲土耳其语的塞浦路斯艺术家伊斯梅特·居内伊设计的国旗和国徽作为塞浦路斯的国家象征，以象征塞浦路斯的统一。
 
-Today, the Turkish occupation still continues and NATO countries insist on an **ethnically divided “bicommunal bizonal federation”** as a “solution” in Cyprus. But from the ABC (American-British-Canadian) plan in 1979 to the UN’s Annan Plan in 2004, Cypriots rejected such an apartheid state. Over time, Turkish politicians have admitted to using the “federation” idea to conceal their colonial activities. While the natural gas resources have been discovered off Cyprus, Turkey also recently declared its aim to create ‘two states’ in the island.
+一年后，塞浦路斯共和国成为不结盟运动的创始成员。马卡里奥斯在反帝国主义世界的声望使他赢得了美国政治家给他起的"地中海的卡斯特罗"的绰号。
+
+1963年，马卡里奥斯想要单方面改变共治宪法，但这遭到了讲土耳其语的塞浦路斯领导层的反对，他们随后离开了政府。当时在五二七革命左倾军事运动影响下的土耳其政府反对讲土耳其语的塞浦路斯领导层的决定。支持塞浦路斯共和国存在或反对离开政府决定的反帝国主义讲土耳其语的塞浦路斯重要人物，如艾汉·希克梅特、艾哈迈德·穆扎弗·居尔坎、德尔维什·阿里·卡瓦佐卢和伊赫桑·阿里，成为TMT的目标。1964年8月，土耳其政府也改变了其进步的塞浦路斯政策，这与五二七革命在土耳其内部影响的减弱同步，并在英军的后勤帮助下在塞浦路斯提利里亚地区组织了一次失败的登陆行动。这次行动类似于美国在古巴组织的"猪湾入侵"。包括切·格瓦拉在内的反帝国主义世界领导人和革命者谴责了这次行动。
+
+1967年，美国支持的军政府在希腊夺取政权。这个右翼军事独裁政权帮助在塞浦路斯建立了EOKA-B组织，反对被西方视为问题的马卡里奥斯领导层。1971年，希腊和土耳其在里斯本北约外长会议上制定并同意了一项针对不结盟塞浦路斯的计划。里斯本制定的计划在1974年付诸实施。1974年7月15日，希腊在EOKA-B组织的帮助下在塞浦路斯发动政变。政变后，土耳其于1974年7月20日开始其第一次入侵塞浦路斯，以根据伦敦和苏黎世协议"保护塞浦路斯的宪法秩序"为借口。几天之内，军政府垮台，政变结束，领导人在日内瓦会面。在旨在解决塞浦路斯局势的日内瓦会议期间，土耳其要求塞浦路斯政府接受其联邦制国家和人口转移计划。根据白宫记录，1974年8月13日，亨利·基辛格在与杰拉尔德·福特总统讨论塞浦路斯局势时说："没有任何美国理由阻止土耳其人拥有塞浦路斯的三分之一。"由于在日内瓦未能获得其要求的积极回应，土耳其于1974年8月14日开始第二次入侵。
+
+今天，土耳其的占领仍在继续，北约国家坚持认为"双族裔双区联邦"是塞浦路斯的"解决方案"。但从1979年的ABC（美英加）计划到2004年的联合国安南计划，塞浦路斯人都拒绝了这种种族隔离国家。随着时间推移，土耳其政客承认使用"联邦制"理念来掩盖其殖民活动。在塞浦路斯海域发现天然气资源的同时，土耳其最近还宣布其在岛上建立"两个国家"的目标。
 
 #### AGAINST SEGREGATIONISM AND SETTLER COLONIALISM
 
@@ -104,6 +109,17 @@ The movement says “no” to NATO occupation, as it also says “no” to becom
 The demands for freedom, justice, and democracy of Cypriot children are the same as the demands of the children of Ireland, Palestine, Puerto Rico, the Philippines, and every land that is still being colonized.
 
 Cyprus is just another example that shows how peoples’ struggles and national liberation are interconnected worldwide, and **international solidarity** is the most powerful weapon to break the chains of oppression. In conclusion, the “unsinkable aircraft carrier” of NATO, **Cyprus**, must be liberated to ensure a free West Asia and North Africa, effectively block the United States Sixth Fleet from accessing the Eastern Mediterranean, and ultimately put an end to imperialism in all its forms.
+
+---
+
+**参考**
+
+[^1]:利诺班巴基：**Linobambaki**或**Linovamvaki**是塞浦路斯的一个隐秘基督教社区，主要是天主教和希腊东正教后裔，他们在奥斯曼帝国统治期间因其宗教信仰而受到迫害。他们在英国统治期间融入土族塞人社区。https://en.wikipedia.org/wiki/Linobambaki
+[^2]:加武尔·伊玛目起义：加武尔伊玛目的斗争继续给塞浦路斯人与外国势力的斗争带来希望，这些外国势力想要占领塞浦路斯并隔离塞浦路斯人。塞浦路斯主义是反对外国势力在岛上推行的反动的希腊和土耳其民族主义的意识形态，它继续在塞浦路斯的政治舞台上强势存在。https://libcom.org/article/gavur-imam-sung-hero-cypriots
+[^3]:（KKK）成立于1926年8月15日，是塞浦路斯最早的左翼政党。该党的诞生源于20世纪10年代末在利马索尔出现的第一批社会主义团体，最初由扬戈斯·伊利亚季斯和帕诺斯·法苏利奥蒂斯领导。 党的发展经历了几个重要阶段：首先是1922年底以塞浦路斯工人党的形式出现，并创办了该国第一份社会主义报纸《火炬报》。随后在1923年更名为塞浦路斯工农党，并在当年底进一步改称塞浦路斯工农党（共产党）。期间，党内经历了共产主义派与社会民主主义派的路线斗争，最终以共产主义派胜出。 1926年的正式成立标志着塞浦路斯共产党的正式诞生。该党与希腊共产党保持密切联系，并试图加入第三国际。党的成立是塞浦路斯工人阶级觉醒的产物，也受到十月革命的重大影响。 **在1931年的反殖民“十月起义”**中，塞浦路斯共产党最初感到意外和犹豫，因为起义的领导者是资产阶级民族主义者。共产党认为这些人利用人民对自由、统一和繁荣的渴望来推进他们的个人利益。然而，随后该党号召其所有党员引导人民进行反帝国主义斗争。事实上，该党希望建立一个反对殖民主义的统一战线，并指出**民族主义者（他们想与希腊统一）和共产主义者（他们支持在巴尔干社会主义联邦内的独立塞浦路斯）之间的分歧可以在英国人撤离后解决**。然而，起义失败后，党被英国殖民当局宣布为非法组织，多位领导人被流放或监禁。 尽管遭受打击，该党在20世纪30年代末致力于工会运动的发展，促成了全塞浦路斯工会委员会（PSE）的成立。在西班牙内战期间，约59名党员加入国际纵队对抗法西斯势力。 二战爆发后，1941年该党与其他民主力量共同创立了进步工人党（劳动人民进步党；AKEL），以进行合法活动。1944年11月，在第五次代表大会上，塞浦路斯共产党正式与AKEL合并。此后，进步工人党成为塞浦路斯左翼运动的主要代表，继承了共产党的政治传统。 塞浦路斯共产党的历史反映了该国现代政治发展的重要篇章，见证了塞浦路斯从殖民统治到独立的历程，在工人权益保护和反帝斗争中发挥了重要作用。https://el.wikipedia.org/wiki/%CE%9A%CE%BF%CE%BC%CE%BC%CE%BF%CF%85%CE%BD%CE%B9%CF%83%CF%84%CE%B9%CE%BA%CF%8C_%CE%9A%CF%8C%CE%BC%CE%BC%CE%B1_%CE%9A%CF%8D%CF%80%CF%81%CE%BF%CF%85
+[^4]:里士满·帕尔默：https://en.wikipedia.org/wiki/Richmond_Palmer
+
+
 
 ---
 
