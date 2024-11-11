@@ -648,7 +648,6 @@ h6 {
   line-height: 1.7;
   line-height: 1.1;
   font-weight: bold;
-  color: #2a2a2a;
 }
 h4 {
   font-size: 21px;
@@ -772,7 +771,7 @@ samp {
 .post-container h4 {
   font-size: 22px;
   font-weight: 600;
-  color: grey; ; /* 四级标题颜色，目前为灰色 */
+  color: #2a2a2a; ; /* 四级标题颜色，目前为灰色 */
 }
 .post-container h4 + p {
   margin-top: 10px;
@@ -781,7 +780,7 @@ samp {
 .post-container h6 {
   font-size: 20px;
   font-weight: 600;
-  color: grey; ; /* 五级和六级标题颜色，目前为灰色 */
+  color: #2a2a2a; ; /* 五级和六级标题颜色，目前为灰色 */
 }
 .post-container h5 + p,
 .post-container h6 + p {
