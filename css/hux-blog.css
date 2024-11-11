@@ -1,39 +1,39 @@
 @media (min-width: 1200px) {
   .post-container,
   .sidebar-container {
-    padding-right: 5%;
+    padding-right: 5%; /* 大屏幕下的右侧内边距 */
   }
 }
 @media (min-width: 768px) {
   .post-container {
-    padding-right: 5%;
+    padding-right: 5%; /* 中等屏幕下的右侧内边距 */
   }
 }
 .sidebar-container {
-  color: #bfbfbf;
+  color: #b0b0b0; /* 侧边栏文本颜色，目前为浅灰色 */
   font-size: 14px;
 }
 .sidebar-container h5 {
-  color: #a3a3a3;
+  color: #8a8a8a; /* 侧边栏标题颜色，目前为中灰色 */
   padding-bottom: 1em;
 }
 .sidebar-container h5 a {
-  color: #a3a3a3 !important;
+  color: #8a8a8a !important; /* 侧边栏标题链接颜色，目前为中灰色 */
   text-decoration: none;
 }
 .sidebar-container a {
-  color: #bfbfbf !important;
+  color: #b0b0b0 !important; /* 侧边栏链接颜色，目前为浅灰色 */
 }
 .sidebar-container a:hover,
 .sidebar-container a:active {
-  color: #0085a1 !important;
+  color: #007b8a !important; /* 侧边栏链接悬停颜色，目前为蓝绿色 */
 }
 .sidebar-container .tags a {
-  border-color: #bfbfbf;
+  border-color: #b0b0b0; /* 侧边栏标签边框颜色，目前为浅灰色 */
 }
 .sidebar-container .tags a:hover,
 .sidebar-container .tags a:active {
-  border-color: #0085a1;
+  border-color: #007b8a; /* 侧边栏标签悬停边框颜色，目前为蓝绿色 */
 }
 .sidebar-container .short-about img {
   width: 80%;
@@ -126,33 +126,28 @@
 }
 .side-catalog .catalog-body .active {
   border-radius: 4px;
-  background-color: #f5f5f5;
+  background-color: #f0f0f0; /* 目录活动项背景颜色，目前为浅灰色 */
 }
 .side-catalog .catalog-body .active a {
-  color: #0085a1 !important;
+  color: #007b8a !important; /* 目录活动项链接颜色，目前为蓝绿色 */
 }
 @media (max-width: 1200px) {
   .side-catalog {
     display: none;
   }
 }
-/*
-  Please note this CSS is currently in   prototype form. We'll implement a cleaned up version in Web Starter Kit.
-*/
 .paper-snackbar {
   transition-property: opacity, bottom, left, right, width, margin, border-radius;
   transition-duration: 0.5s;
   transition-timing-function: ease;
-  /*font-family: RobotoDraft;*/
   font-size: 14px;
   min-height: 14px;
-  background-color: #323232;
-  background-color: #0085a1;
+  background-color: #007b8a; /* Snackbar背景颜色，目前为蓝绿色 */
   position: fixed;
   display: flex;
   justify-content: space-between;
   align-items: center;
-  color: white;
+  color: white; /* Snackbar文本颜色，目前为白色 */
   line-height: 22px;
   padding: 18px 24px;
   bottom: 0px;
@@ -160,16 +155,6 @@
 }
 @media (min-width: 640px) {
   .paper-snackbar {
-    /*
-    Desktop:
-      Single-line snackbar height: 48 dp tall
-      Minimum width: 288 dp
-      Maximum width: 568 dp
-      2 dp rounded corner
-      Text: Roboto Regular 14 sp
-      Action button: Roboto Medium 14 sp, all-caps text
-      Default background fill: #323232 100%
-    */
     min-width: 288px;
     max-width: 568px;
     display: inline-flex;
@@ -180,14 +165,6 @@
 }
 @media (max-width: 640px) {
   .paper-snackbar {
-    /*
-  Mobile:
-    Single-line snackbar height: 48 dp
-    Multi-line snackbar height: 80 dp
-    Text: Roboto Regular 14 sp
-    Action button: Roboto Medium 14 sp, all-caps text
-    Default background fill: #323232 100%
-  */
     left: 0px;
     right: 0px;
   }
@@ -198,15 +175,12 @@
   border: none;
   font-size: inherit;
   text-transform: uppercase;
-  color: #ffeb3b;
+  color: #ffeb3b; /* Snackbar操作按钮颜色，目前为黄色 */
   margin: 0px 0px 0px 24px;
   padding: 0px;
   min-width: min-content;
   outline: 0px;
 }
-/* Everything from here down is actually just for the demo - the material buttons and card, and various other pieces of styling */
-/* Variables */
-/* Buttons */
 .paper-button {
   position: relative;
   padding: 4px 0;
@@ -214,10 +188,10 @@
   width: 160px;
   overflow: hidden;
   user-select: none;
-  color: #000000;
+  color: #000000; /* 按钮文本颜色，目前为黑色 */
   text-transform: uppercase;
   border-radius: 3px;
-  outline-color: #a3a3a3;
+  outline-color: #a3a3a3; /* 按钮轮廓颜色，目前为中灰色 */
 }
 .paper-button:hover {
   cursor: pointer;
@@ -229,77 +203,73 @@
   display: block;
   width: 100%;
   height: 100%;
-  /*font-family: 'Roboto';*/
   font-size: 1em;
-  color: #000000;
+  color: #000000; /* 按钮文本颜色，目前为黑色 */
   text-transform: uppercase;
 }
 .paper-button.colored,
 .paper-button.colored button {
-  color: #4285f4;
+  color: #4285f4; /* 彩色按钮文本颜色，目前为蓝色 */
 }
 .paper-button.raised-button.colored {
-  background-color: #4285f4;
+  background-color: #4285f4; /* 彩色提升按钮背景颜色，目前为蓝色 */
 }
 .paper-button .raised-button {
-  box-shadow: 0 2px 5px 0 rgba(0, 0, 0, 0.26);
+  box-shadow: 0 2px 5px 0 rgba(0, 0, 0, 0.26); /* 按钮阴影 */
 }
 .paper-button.raised-button.colored {
-  background: #4285f4;
-  color: #fff;
+  background: #4285f4; /* 彩色提升按钮背景颜色，目前为蓝色 */
+  color: #fff; /* 彩色提升按钮文本颜色，目前为白色 */
 }
 .paper-button[disabled] {
-  background-color: #eaeaea !important;
-  color: #a8a8a8 !important;
+  background-color: #eaeaea !important; /* 禁用按钮背景颜色，目前为浅灰色 */
+  color: #a8a8a8 !important; /* 禁用按钮文本颜色，目前为灰色 */
   cursor: auto;
 }
 .paper-button:hover {
-  background-color: #eaeaea;
+  background-color: #eaeaea; /* 按钮悬停背景颜色，目前为浅灰色 */
 }
 .paper-button.raised-button.colored:hover {
-  background-color: #3367d6;
+  background-color: #3367d6; /* 彩色提升按钮悬停背景颜色，目前为深蓝色 */
 }
 button.paper-button {
   border: 0;
-  /*font-family: RobotoDraft, 'Helvetica Neue', Helvetica, Arial;*/
   font-size: 1em;
   line-height: 25px;
-  background-color: #ffffff;
+  background-color: #ffffff; /* 按钮背景颜色，目前为白色 */
 }
 .paper-button input[type="submit"] {
-  outline-color: #a3a3a3;
+  outline-color: #a3a3a3; /* 按钮轮廓颜色，目前为中灰色 */
 }
 .paper-button.colored.raised-button input[type="submit"] {
-  color: #ffffff;
+  color: #ffffff; /* 彩色提升按钮文本颜色，目前为白色 */
 }
-/** Shadows **/
 .paper-shadow-animated.paper-shadow {
   transition: box-shadow 0.28s cubic-bezier(0.4, 0, 0.2, 1);
 }
 .paper-shadow-top-z-1 {
-  box-shadow: 0 2px 10px 0 rgba(0, 0, 0, 0.16);
+  box-shadow: 0 2px 10px 0 rgba(0, 0, 0, 0.16); /* 顶部阴影 */
 }
 .paper-shadow-bottom-z-1 {
-  box-shadow: 0 2px 5px 0 rgba(0, 0, 0, 0.26);
+  box-shadow: 0 2px 5px 0 rgba(0, 0, 0, 0.26); /* 底部阴影 */
 }
 .paper-shadow-top-z-2 {
-  box-shadow: 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+  box-shadow: 0 6px 20px 0 rgba(0, 0, 0, 0.19); /* 顶部阴影 */
 }
 .paper-shadow-bottom-z-2 {
-  box-shadow: 0 8px 17px 0 rgba(0, 0, 0, 0.2);
+  box-shadow: 0 8px 17px 0 rgba(0, 0, 0, 0.2); /* 底部阴影 */
 }
 .paper-shadow-top-z-3 {
-  box-shadow: 0 17px 50px 0 rgba(0, 0, 0, 0.19);
+  box-shadow: 0 17px 50px 0 rgba(0, 0, 0, 0.19); /* 顶部阴影 */
 }
 .paper-shadow-bottom-z-3 {
-  box-shadow: 0 12px 15px 0 rgba(0, 0, 0, 0.24);
+  box-shadow: 0 12px 15px 0 rgba(0, 0, 0, 0.24); /* 底部阴影 */
 }
 .paper-shadow-top-z-4 {
-  box-shadow: 0 25px 55px 0 rgba(0, 0, 0, 0.21);
+  box-shadow: 0 25px 55px 0 rgba(0, 0, 0, 0.21); /* 顶部阴影 */
 }
-/** Card **/
 .card {
-  background: white;
+  background: white; /* 卡片背景颜色，目前为白色 */
   width: 300px;
   height: 300px;
   position: relative;
@@ -308,207 +278,207 @@ button.paper-button {
 }
 .highlight,
 pre.highlight {
-  background: #282c34;
-  color: #abb2bf;
+  background: #282c34; /* 代码高亮背景颜色，目前为深灰色 */
+  color: #abb2bf; /* 代码高亮文本颜色，目前为浅灰色 */
 }
 .highlight pre {
-  background: #282c34;
+  background: #282c34; /* 代码高亮背景颜色，目前为深灰色 */
 }
 .highlight .hll {
-  background: #282c34;
+  background: #282c34; /* 代码高亮背景颜色，目前为深灰色 */
 }
 .highlight .c {
-  color: #5c6370;
+  color: #5c6370; /* 代码注释颜色，目前为灰色 */
   font-style: italic;
 }
 .highlight .err {
-  color: #960050;
-  background-color: #1e0010;
+  color: #960050; /* 错误文本颜色，目前为红色 */
+  background-color: #1e0010; /* 错误背景颜色，目前为深红色 */
 }
 .language-coq .highlight .err {
-  background-color: transparent;
+  background-color: transparent; /* Coq语言错误背景颜色，目前为透明 */
 }
 .highlight .k,
 .language-coq .highlight .err {
-  color: #c678dd;
+  color: #c678dd; /* 关键字颜色，目前为紫色 */
 }
 .highlight .l {
-  color: #98c379;
+  color: #98c379; /* 字面量颜色，目前为绿色 */
 }
 .highlight .n {
-  color: #abb2bf;
+  color: #abb2bf; /* 名称颜色，目前为浅灰色 */
 }
 .highlight .o {
-  color: #abb2bf;
+  color: #abb2bf; /* 操作符颜色，目前为浅灰色 */
 }
 .highlight .p {
-  color: #abb2bf;
+  color: #abb2bf; /* 标点符号颜色，目前为浅灰色 */
 }
 .highlight .cm {
-  color: #5c6370;
+  color: #5c6370; /* 注释颜色，目前为灰色 */
   font-style: italic;
 }
 .highlight .cp {
-  color: #5c6370;
+  color: #5c6370; /* 注释颜色，目前为灰色 */
   font-style: italic;
 }
 .highlight .c1 {
-  color: #5c6370;
+  color: #5c6370; /* 注释颜色，目前为灰色 */
   font-style: italic;
 }
 .highlight .cs {
-  color: #5c6370;
+  color: #5c6370; /* 注释颜色，目前为灰色 */
   font-style: italic;
 }
 .highlight .ge {
-  font-style: italic;
+  font-style: italic; /* 强调文本样式 */
 }
 .highlight .gs {
-  font-weight: 700;
+  font-weight: 700; /* 强调文本样式 */
 }
 .highlight .kc {
-  color: #c678dd;
+  color: #c678dd; /* 关键字颜色，目前为紫色 */
 }
 .highlight .kd {
-  color: #c678dd;
+  color: #c678dd; /* 关键字颜色，目前为紫色 */
 }
 .highlight .kn {
-  color: #c678dd;
+  color: #c678dd; /* 关键字颜色，目前为紫色 */
 }
 .highlight .kp {
-  color: #c678dd;
+  color: #c678dd; /* 关键字颜色，目前为紫色 */
 }
 .highlight .kr {
-  color: #c678dd;
+  color: #c678dd; /* 关键字颜色，目前为紫色 */
 }
 .highlight .kt {
-  color: #c678dd;
+  color: #c678dd; /* 关键字颜色，目前为紫色 */
 }
 .highlight .ld {
-  color: #98c379;
+  color: #98c379; /* 字面量颜色，目前为绿色 */
 }
 .highlight .m {
-  color: #d19a66;
+  color: #d19a66; /* 数字颜色，目前为橙色 */
 }
 .highlight .s {
-  color: #98c379;
+  color: #98c379; /* 字符串颜色，目前为绿色 */
 }
 .highlight .na {
-  color: #d19a66;
+  color: #d19a66; /* 属性名称颜色，目前为橙色 */
 }
 .highlight .nb {
-  color: #e5c07b;
+  color: #e5c07b; /* 内置名称颜色，目前为黄色 */
 }
 .highlight .nc {
-  color: #e5c07b;
+  color: #e5c07b; /* 类名颜色，目前为黄色 */
 }
 .highlight .no {
-  color: #e5c07b;
+  color: #e5c07b; /* 数字颜色，目前为黄色 */
 }
 .highlight .nd {
-  color: #e5c07b;
+  color: #e5c07b; /* 定义名称颜色，目前为黄色 */
 }
 .highlight .ni {
-  color: #e5c07b;
+  color: #e5c07b; /* 变量名称颜色，目前为黄色 */
 }
 .highlight .ne {
-  color: #e5c07b;
+  color: #e5c07b; /* 异常名称颜色，目前为黄色 */
 }
 .highlight .nf {
-  color: #abb2bf;
+  color: #abb2bf; /* 函数名称颜色，目前为浅灰色 */
 }
 .highlight .nl {
-  color: #e5c07b;
+  color: #e5c07b; /* 标签名称颜色，目前为黄色 */
 }
 .highlight .nn {
-  color: #abb2bf;
+  color: #abb2bf; /* 名称颜色，目前为浅灰色 */
 }
 .highlight .nx {
-  color: #abb2bf;
+  color: #abb2bf; /* 名称颜色，目前为浅灰色 */
 }
 .highlight .py {
-  color: #e5c07b;
+  color: #e5c07b; /* Python关键字颜色，目前为黄色 */
 }
 .highlight .nt {
-  color: #e06c75;
+  color: #e06c75; /* 标签颜色，目前为红色 */
 }
 .highlight .nv {
-  color: #e5c07b;
+  color: #e5c07b; /* 变量颜色，目前为黄色 */
 }
 .highlight .ow {
-  font-weight: 700;
+  font-weight: 700; /* 操作符样式 */
 }
 .highlight .w {
-  color: #f8f8f2;
+  color: #f8f8f2; /* 空白颜色，目前为白色 */
 }
 .highlight .mf {
-  color: #d19a66;
+  color: #d19a66; /* 方法颜色，目前为橙色 */
 }
 .highlight .mh {
-  color: #d19a66;
+  color: #d19a66; /* 方法颜色，目前为橙色 */
 }
 .highlight .mi {
-  color: #d19a66;
+  color: #d19a66; /* 方法颜色，目前为橙色 */
 }
 .highlight .mo {
-  color: #d19a66;
+  color: #d19a66; /* 方法颜色，目前为橙色 */
 }
 .highlight .sb {
-  color: #98c379;
+  color: #98c379; /* 字符串颜色，目前为绿色 */
 }
 .highlight .sc {
-  color: #98c379;
+  color: #98c379; /* 字符串颜色，目前为绿色 */
 }
 .highlight .sd {
-  color: #98c379;
+  color: #98c379; /* 字符串颜色，目前为绿色 */
 }
 .highlight .s2 {
-  color: #98c379;
+  color: #98c379; /* 字符串颜色，目前为绿色 */
 }
 .highlight .se {
-  color: #98c379;
+  color: #98c379; /* 字符串颜色，目前为绿色 */
 }
 .highlight .sh {
-  color: #98c379;
+  color: #98c379; /* 字符串颜色，目前为绿色 */
 }
 .highlight .si {
-  color: #98c379;
+  color: #98c379; /* 字符串颜色，目前为绿色 */
 }
 .highlight .sx {
-  color: #98c379;
+  color: #98c379; /* 字符串颜色，目前为绿色 */
 }
 .highlight .sr {
-  color: #56b6c2;
+  color: #56b6c2; /* 正则表达式颜色，目前为青色 */
 }
 .highlight .s1 {
-  color: #98c379;
+  color: #98c379; /* 字符串颜色，目前为绿色 */
 }
 .highlight .ss {
-  color: #56b6c2;
+  color: #56b6c2; /* 正则表达式颜色，目前为青色 */
 }
 .highlight .bp {
-  color: #e5c07b;
+  color: #e5c07b; /* 断点颜色，目前为黄色 */
 }
 .highlight .vc {
-  color: #e5c07b;
+  color: #e5c07b; /* 变量颜色，目前为黄色 */
 }
 .highlight .vg {
-  color: #e5c07b;
+  color: #e5c07b; /* 变量颜色，目前为黄色 */
 }
 .highlight .vi {
-  color: #e06c75;
+  color: #e06c75; /* 变量颜色，目前为红色 */
 }
 .highlight .il {
-  color: #d19a66;
+  color: #d19a66; /* 整数颜色，目前为橙色 */
 }
 .highlight .gu {
-  color: #75715e;
+  color: #75715e; /* Git颜色，目前为灰色 */
 }
 .highlight .gd {
-  color: #f92672;
+  color: #f92672; /* Git删除颜色，目前为红色 */
 }
 .highlight .gi {
-  color: #a6e22e;
+  color: #a6e22e; /* Git插入颜色，目前为绿色 */
 }
 .highlighter-rouge .highlight {
   margin-bottom: 10px;
@@ -517,8 +487,8 @@ pre.highlight {
 .highlighter-rouge .highlight pre {
   font-size: 14px;
   line-height: 1.5;
-  color: #555;
-  background: transparent;
+  color: #555; /* 代码高亮文本颜色，目前为灰色 */
+  background: transparent; /* 代码高亮背景颜色，目前为透明 */
   border: 0;
   margin: 0;
   padding: 0;
@@ -529,7 +499,7 @@ pre.highlight {
   border: 0 !important;
 }
 .highlighter-rouge .highlight .rouge-code pre {
-  color: #abb2bf;
+  color: #abb2bf; /* 代码高亮文本颜色，目前为浅灰色 */
 }
 .highlighter-rouge .highlight .table-responsive {
   margin: 0px;
@@ -554,7 +524,6 @@ pre.highlight {
   text-align: right;
   border-radius: 0px;
 }
-/* Landscape phones and down */
 @media (max-width: 480px) {
   .highlighter-rouge .highlight {
     margin-left: -15px;
@@ -575,7 +544,7 @@ pre.highlight {
   bottom: 0;
   left: 0;
   z-index: 100;
-  background: #fff;
+  background: #fff; /* 搜索页面背景颜色，目前为白色 */
   -webkit-transition: all 400ms cubic-bezier(0.32, 1, 0.23, 1);
   transition: all 400ms cubic-bezier(0.32, 1, 0.23, 1);
   -webkit-transform: translate(0, 100%);
@@ -622,7 +591,7 @@ pre.highlight {
   width: 100%;
   font-size: 30px;
   font-weight: bold;
-  color: #404040;
+  color: #404040; /* 搜索输入框文本颜色，目前为深灰色 */
 }
 @media only screen and (min-width: 768px) {
   .search-page #search-input {
@@ -639,7 +608,7 @@ pre.highlight {
 .search-icon-close {
   cursor: pointer;
   font-size: 30px;
-  color: #311e3e;
+  color: #311e3e; /* 搜索图标颜色，目前为深紫色 */
   -webkit-transition: all 0.25s;
   transition: all 0.25s;
 }
@@ -652,14 +621,10 @@ pre.highlight {
   font-size: 16px;
 }
 body {
-  /* Hux learn from
-     *     TypeIsBeautiful,
-     *     [This Post](http://zhuanlan.zhihu.com/ibuick/20186806) etc.
-     */
   font-family: -apple-system, BlinkMacSystemFont, "Helvetica Neue", "Arial", "PingFang SC", "Hiragino Sans GB", "STHeiti", "Microsoft YaHei", "Microsoft JhengHei", "Source Han Sans SC", "Noto Sans CJK SC", "Source Han Sans CN", "Noto Sans SC", "Source Han Sans TC", "Noto Sans CJK TC", "WenQuanYi Micro Hei", SimSun, sans-serif;
   line-height: 1.7;
   font-size: 16px;
-  color: #404040;
+  color: #404040; /* 主体文本颜色，目前为深灰色 */
   overflow-x: hidden;
   text-rendering: auto;
   -webkit-font-smoothing: antialiased;
@@ -679,10 +644,6 @@ h3,
 h4,
 h5,
 h6 {
-  /* Hux learn from
-     *     TypeIsBeautiful,
-     *     [This Post](http://zhuanlan.zhihu.com/ibuick/20186806) etc.
-     */
   font-family: -apple-system, BlinkMacSystemFont, "Helvetica Neue", "Arial", "PingFang SC", "Hiragino Sans GB", "STHeiti", "Microsoft YaHei", "Microsoft JhengHei", "Source Han Sans SC", "Noto Sans CJK SC", "Source Han Sans CN", "Noto Sans SC", "Source Han Sans TC", "Noto Sans CJK TC", "WenQuanYi Micro Hei", SimSun, sans-serif;
   line-height: 1.7;
   line-height: 1.1;
@@ -692,11 +653,11 @@ h4 {
   font-size: 21px;
 }
 a {
-  color: #404040;
+  color: #404040; /* 链接颜色，目前为深灰色 */
 }
 a:hover,
 a:focus {
-  color: #0085a1;
+  color: #007b8a; /* 链接悬停颜色，目前为蓝绿色 */
 }
 a img:hover,
 a img:focus {
@@ -706,7 +667,7 @@ article {
   overflow: hidden;
 }
 blockquote {
-  color: gray;
+  color: gray; /* 引用文本颜色，目前为灰色 */
   font-style: italic;
   font-size: 0.95em;
   margin: 20px 0 20px;
@@ -723,15 +684,15 @@ br + small.img-hint {
   margin-top: -40px;
 }
 img.shadow {
-  box-shadow: rgba(0, 0, 0, 0.258824) 0px 2px 5px 0px;
+  box-shadow: rgba(0, 0, 0, 0.258824) 0px 2px 5px 0px; /* 图片阴影 */
 }
 select {
   -webkit-appearance: none;
   margin-top: 15px;
-  color: #337ab7;
-  border-color: #337ab7;
+  color: #337ab7; /* 下拉框文本颜色，目前为蓝色 */
+  border-color: #337ab7; /* 下拉框边框颜色，目前为蓝色 */
   padding: 0em 0.4em;
-  background: white;
+  background: white; /* 下拉框背景颜色，目前为白色 */
 }
 select.sel-lang {
   min-height: 28px;
@@ -744,7 +705,7 @@ table.table > tbody th,
 table.table > thead th,
 table.table > tbody td,
 table.table > thead td {
-  border: 1px solid #eee !important;
+  border: 1px solid #eee !important; /* 表格边框颜色，目前为浅灰色 */
 }
 @media screen and (max-width: 767px) {
   .table-responsive {
@@ -755,7 +716,7 @@ hr.small {
   max-width: 100px;
   margin: 15px auto;
   border-width: 4px;
-  border-color: white;
+  border-color: white; /* 小分隔线颜色，目前为白色 */
 }
 pre,
 .table-responsive {
@@ -777,11 +738,11 @@ samp {
   margin-bottom: 15px;
 }
 .post-container a {
-  color: #337ab7;
+  color: #337ab7; /* 文章链接颜色，目前为蓝色 */
 }
 .post-container a:hover,
 .post-container a:focus {
-  color: #0085a1;
+  color: #007b8a; /* 文章链接悬停颜色，目前为蓝绿色 */
 }
 .post-container h1,
 .post-container h2,
@@ -803,14 +764,14 @@ samp {
 .post-container h2::before {
   content: " ";
   display: block;
-  border-bottom: 1px solid #ececec;
+  border-bottom: 1px solid #ececec; /* 二级标题下划线颜色，目前为浅灰色 */
   margin-top: 44px;
   margin-bottom: 30px;
 }
 .post-container h4 {
   font-size: 22px;
   font-weight: 600;
-  color: gray;
+  color: gray; /* 四级标题颜色，目前为灰色 */
 }
 .post-container h4 + p {
   margin-top: 10px;
@@ -819,7 +780,7 @@ samp {
 .post-container h6 {
   font-size: 20px;
   font-weight: 600;
-  color: gray;
+  color: gray; /* 五级和六级标题颜色，目前为灰色 */
 }
 .post-container h5 + p,
 .post-container h6 + p {
@@ -891,7 +852,7 @@ samp {
   width: 100%;
 }
 .post-container .pager li > a > span {
-  color: #a3a3a3;
+  color: #a3a3a3; /* 分页链接文本颜色，目前为中灰色 */
   font-weight: normal;
   letter-spacing: 0.5px;
 }
@@ -900,29 +861,17 @@ samp {
   text-decoration: none !important;
 }
 @media only screen and (max-width: 767px) {
-  /**
-   * Layout
-   * Since V1.6 we use absolute positioning to prevent to expand container-fluid
-   * which would cover tags. A absolute positioning make a new layer.
-   */
   .navbar-default .navbar-collapse {
     position: absolute;
     right: 0;
     border: none;
-    background: white;
+    background: white; /* 导航栏背景颜色，目前为白色 */
     box-shadow: 0px 5px 10px 2px rgba(0, 0, 0, 0.2);
     box-shadow: rgba(0, 0, 0, 0.117647) 0px 1px 6px, rgba(0, 0, 0, 0.239216) 0px 1px 4px;
     border-radius: 2px;
     width: 170px;
   }
-  /**
-   * Animation
-   * HuxBlog-Navbar using genuine Material Design Animation
-   */
   #huxblog_navbar {
-    /**
-     * Sharable code and 'out' function
-     */
     opacity: 0;
     transform: scaleX(0);
     transform-origin: top right;
@@ -930,9 +879,6 @@ samp {
     -webkit-transform: scaleX(0);
     -webkit-transform-origin: top right;
     -webkit-transition: all 200ms cubic-bezier(0.47, 0, 0.4, 0.99) 0ms;
-    /**
-     *'In' Animation
-     */
   }
   #huxblog_navbar a {
     font-size: 13px;
@@ -979,21 +925,17 @@ samp {
   left: 0;
   width: 100%;
   z-index: 3;
-  /* Hux learn from
-     *     TypeIsBeautiful,
-     *     [This Post](http://zhuanlan.zhihu.com/ibuick/20186806) etc.
-     */
   font-family: -apple-system, BlinkMacSystemFont, "Helvetica Neue", "Arial", "PingFang SC", "Hiragino Sans GB", "STHeiti", "Microsoft YaHei", "Microsoft JhengHei", "Source Han Sans SC", "Noto Sans CJK SC", "Source Han Sans CN", "Noto Sans SC", "Source Han Sans TC", "Noto Sans CJK TC", "WenQuanYi Micro Hei", SimSun, sans-serif;
   line-height: 1.7;
 }
 .navbar-custom .navbar-brand {
   font-weight: 800;
-  color: white;
+  color: white; /* 导航栏品牌颜色，目前为白色 */
   height: 56px;
   line-height: 25px;
 }
 .navbar-custom .navbar-brand:hover {
-  color: rgba(255, 255, 255, 0.8);
+  color: rgba(255, 255, 255, 0.8); /* 导航栏品牌悬停颜色，目前为白色透明 */
 }
 .navbar-custom .nav li a {
   text-transform: uppercase;
@@ -1003,7 +945,7 @@ samp {
   letter-spacing: 1px;
 }
 .navbar-custom .nav li a:active {
-  background: rgba(0, 0, 0, 0.12);
+  background: rgba(0, 0, 0, 0.12); /* 导航栏链接活动背景颜色，目前为黑色透明 */
 }
 @media only screen and (min-width: 768px) {
   .navbar-custom {
@@ -1014,52 +956,51 @@ samp {
     font-size: 20px;
   }
   .navbar-custom .navbar-brand {
-    color: white;
+    color: white; /* 导航栏品牌颜色，目前为白色 */
     padding: 20px;
     line-height: 20px;
   }
   .navbar-custom .navbar-brand:hover,
   .navbar-custom .navbar-brand:focus {
-    color: rgba(255, 255, 255, 0.8);
+    color: rgba(255, 255, 255, 0.8); /* 导航栏品牌悬停颜色，目前为白色透明 */
   }
   .navbar-custom .nav li a {
-    color: white;
+    color: white; /* 导航栏链接颜色，目前为白色 */
     padding: 20px;
   }
   .navbar-custom .nav li a:hover,
   .navbar-custom .nav li a:focus {
-    color: rgba(255, 255, 255, 0.8);
+    color: rgba(255, 255, 255, 0.8); /* 导航栏链接悬停颜色，目前为白色透明 */
   }
   .navbar-custom .nav li a:active {
     background: none;
   }
 }
 .navbar-custom.invert .navbar-toggle:active {
-  background-color: rgba(0, 0, 0, 0.05);
+  background-color: rgba(0, 0, 0, 0.05); /* 反转导航栏切换按钮活动背景颜色，目前为黑色透明 */
 }
 .navbar-custom.invert .navbar-toggle .icon-bar {
-  background-color: #404040;
+  background-color: #404040; /* 反转导航栏切换按钮图标颜色，目前为深灰色 */
 }
 .navbar-custom.invert .navbar-brand {
-  color: #404040;
+  color: #404040; /* 反转导航栏品牌颜色，目前为深灰色 */
 }
 .navbar-custom.invert .navbar-brand:hover,
 .navbar-custom.invert .navbar-brand:focus {
-  color: #0085a1;
+  color: #007b8a; /* 反转导航栏品牌悬停颜色，目前为蓝绿色 */
 }
 .navbar-custom.invert .nav li a {
-  color: #404040;
+  color: #404040; /* 反转导航栏链接颜色，目前为深灰色 */
 }
 .navbar-custom.invert .nav li a:hover,
 .navbar-custom.invert .nav li a:focus {
-  color: #0085a1;
+  color: #007b8a; /* 反转导航栏链接悬停颜色，目前为蓝绿色 */
 }
 @media only screen and (min-width: 1170px) {
   .navbar-custom {
     -webkit-transition: background-color 0.3s;
     -moz-transition: background-color 0.3s;
     transition: background-color 0.3s;
-    /* Force Hardware Acceleration in WebKit */
     -webkit-transform: translate3d(0, 0, 0);
     -moz-transform: translate3d(0, 0, 0);
     -ms-transform: translate3d(0, 0, 0);
@@ -1069,31 +1010,29 @@ samp {
     backface-visibility: hidden;
   }
   .navbar-custom.is-fixed {
-    /* when the user scrolls down, we hide the header right above the viewport */
     position: fixed;
     top: -61px;
-    background-color: rgba(255, 255, 255, 0.9);
-    border-bottom: 1px solid #f2f2f2;
+    background-color: rgba(255, 255, 255, 0.9); /* 固定导航栏背景颜色，目前为白色透明 */
+    border-bottom: 1px solid #f2f2f2; /* 固定导航栏底部边框颜色，目前为浅灰色 */
     -webkit-transition: -webkit-transform 0.3s;
     -moz-transition: -moz-transform 0.3s;
     transition: transform 0.3s;
   }
   .navbar-custom.is-fixed .navbar-brand {
-    color: #404040;
+    color: #404040; /* 固定导航栏品牌颜色，目前为深灰色 */
   }
   .navbar-custom.is-fixed .navbar-brand:hover,
   .navbar-custom.is-fixed .navbar-brand:focus {
-    color: #0085a1;
+    color: #007b8a; /* 固定导航栏品牌悬停颜色，目前为蓝绿色 */
   }
   .navbar-custom.is-fixed .nav li a {
-    color: #404040;
+    color: #404040; /* 固定导航栏链接颜色，目前为深灰色 */
   }
   .navbar-custom.is-fixed .nav li a:hover,
   .navbar-custom.is-fixed .nav li a:focus {
-    color: #0085a1;
+    color: #007b8a; /* 固定导航栏链接悬停颜色，目前为蓝绿色 */
   }
   .navbar-custom.is-visible {
-    /* if the user changes the scrolling direction, we show the header */
     -webkit-transform: translate3d(0, 100%, 0);
     -moz-transform: translate3d(0, 100%, 0);
     -ms-transform: translate3d(0, 100%, 0);
@@ -1103,14 +1042,13 @@ samp {
 }
 .intro-header {
   background: no-repeat center center;
-  background-color: #a3a3a3;
+  background-color: #a3a3a3; /* 介绍头部背景颜色，目前为中灰色 */
   background-attachment: scroll;
   -webkit-background-size: cover;
   -moz-background-size: cover;
   background-size: cover;
   -o-background-size: cover;
   margin-bottom: 0px;
-  /* 0 on mobile, modify by Hux */
 }
 .intro-header.style-text {
   background: none;
@@ -1119,7 +1057,7 @@ samp {
 .intro-header.style-text .post-heading,
 .intro-header.style-text .page-heading {
   padding: 85px 0 20px;
-  color: #404040;
+  color: #404040; /* 介绍头部文本颜色，目前为深灰色 */
 }
 .intro-header.style-text .site-heading .subheading,
 .intro-header.style-text .post-heading .subheading,
@@ -1128,26 +1066,25 @@ samp {
 }
 .intro-header.style-text .tags a,
 .intro-header.style-text .tags .tag {
-  border-color: #404040;
-  color: #404040;
+  border-color: #404040; /* 介绍头部标签边框颜色，目前为深灰色 */
+  color: #404040; /* 介绍头部标签文本颜色，目前为深灰色 */
 }
 .intro-header.style-text .tags a:hover,
 .intro-header.style-text .tags .tag:hover,
 .intro-header.style-text .tags a:active,
 .intro-header.style-text .tags .tag:active {
-  background-color: rgba(0, 0, 0, 0.05);
+  background-color: rgba(0, 0, 0, 0.05); /* 介绍头部标签悬停背景颜色，目前为黑色透明 */
 }
 @media only screen and (min-width: 768px) {
   .intro-header {
     margin-bottom: 20px;
-    /* response on desktop */
   }
 }
 .intro-header .site-heading,
 .intro-header .post-heading,
 .intro-header .page-heading {
   padding: 85px 0 55px;
-  color: white;
+  color: white; /* 介绍头部文本颜色，目前为白色 */
 }
 @media only screen and (min-width: 768px) {
   .intro-header .site-heading,
@@ -1175,10 +1112,6 @@ samp {
 }
 .intro-header .site-heading .subheading,
 .intro-header .page-heading .subheading {
-  /* Hux learn from
-     *     TypeIsBeautiful,
-     *     [This Post](http://zhuanlan.zhihu.com/ibuick/20186806) etc.
-     */
   font-family: -apple-system, BlinkMacSystemFont, "Helvetica Neue", "Arial", "PingFang SC", "Hiragino Sans GB", "STHeiti", "Microsoft YaHei", "Microsoft JhengHei", "Source Han Sans SC", "Noto Sans CJK SC", "Source Han Sans CN", "Noto Sans SC", "Source Han Sans TC", "Noto Sans CJK TC", "WenQuanYi Micro Hei", SimSun, sans-serif;
   line-height: 1.7;
   font-size: 18px;
@@ -1203,10 +1136,6 @@ samp {
   display: block;
 }
 .intro-header .post-heading .subheading {
-  /* Hux learn from
-     *     TypeIsBeautiful,
-     *     [This Post](http://zhuanlan.zhihu.com/ibuick/20186806) etc.
-     */
   font-family: -apple-system, BlinkMacSystemFont, "Helvetica Neue", "Arial", "PingFang SC", "Hiragino Sans GB", "STHeiti", "Microsoft YaHei", "Microsoft JhengHei", "Source Han Sans SC", "Noto Sans CJK SC", "Source Han Sans CN", "Noto Sans SC", "Source Han Sans TC", "Noto Sans CJK TC", "WenQuanYi Micro Hei", SimSun, sans-serif;
   line-height: 1.7;
   font-size: 17px;
@@ -1222,7 +1151,7 @@ samp {
   font-size: 16px;
 }
 .intro-header .post-heading .meta a {
-  color: white;
+  color: white; /* 介绍头部元数据链接颜色，目前为白色 */
 }
 @media only screen and (min-width: 768px) {
   .intro-header .post-heading h1 {
@@ -1239,13 +1168,13 @@ samp {
   position: absolute;
   bottom: 6px;
   right: 9px;
-  color: white;
+  color: white; /* 图片版权颜色，目前为白色 */
   opacity: 0.3;
   font-size: 10px;
   z-index: 1;
 }
 .intro-header .header-img-credit a {
-  color: white;
+  color: white; /* 图片版权链接颜色，目前为白色 */
 }
 @media only screen and (min-width: 768px) {
   .intro-header .header-img-credit {
@@ -1255,12 +1184,12 @@ samp {
   }
 }
 .post-preview > a {
-  color: #404040;
+  color: #404040; /* 文章预览链接颜色，目前为深灰色 */
 }
 .post-preview > a:hover,
 .post-preview > a:focus {
   text-decoration: none;
-  color: #0085a1;
+  color: #007b8a; /* 文章预览链接悬停颜色，目前为蓝绿色 */
 }
 .post-preview > a > .post-title {
   font-size: 21px;
@@ -1277,18 +1206,18 @@ samp {
 }
 .post-preview > .post-meta {
   font-family: 'Lora', 'Times New Roman', serif;
-  color: #a3a3a3;
+  color: #a3a3a3; /* 文章预览元数据颜色，目前为中灰色 */
   font-size: 16px;
   font-style: italic;
   margin-top: 0;
 }
 .post-preview > .post-meta > a {
   text-decoration: none;
-  color: #404040;
+  color: #404040; /* 文章预览元数据链接颜色，目前为深灰色 */
 }
 .post-preview > .post-meta > a:hover,
 .post-preview > .post-meta > a:focus {
-  color: #0085a1;
+  color: #007b8a; /* 文章预览元数据链接悬停颜色，目前为蓝绿色 */
   text-decoration: underline;
 }
 @media only screen and (min-width: 768px) {
@@ -1307,10 +1236,10 @@ samp {
 .post-content-preview {
   font-size: 13px;
   font-style: italic;
-  color: #a3a3a3;
+  color: #a3a3a3; /* 文章内容预览颜色，目前为中灰色 */
 }
 .post-content-preview:hover {
-  color: #0085a1;
+  color: #007b8a; /* 文章内容预览悬停颜色，目前为蓝绿色 */
 }
 @media only screen and (min-width: 768px) {
   .post-content-preview {
@@ -1346,17 +1275,13 @@ footer .copyright {
   margin-bottom: 0;
 }
 footer .copyright a {
-  color: #337ab7;
+  color: #337ab7; /* 页脚版权链接颜色，目前为蓝色 */
 }
 footer .copyright a:hover,
 footer .copyright a:focus {
-  color: #0085a1;
+  color: #007b8a; /* 页脚版权链接悬停颜色，目前为蓝绿色 */
 }
 .btn {
-  /* Hux learn from
-     *     TypeIsBeautiful,
-     *     [This Post](http://zhuanlan.zhihu.com/ibuick/20186806) etc.
-     */
   font-family: -apple-system, BlinkMacSystemFont, "Helvetica Neue", "Arial", "PingFang SC", "Hiragino Sans GB", "STHeiti", "Microsoft YaHei", "Microsoft JhengHei", "Source Han Sans SC", "Noto Sans CJK SC", "Source Han Sans CN", "Noto Sans SC", "Source Han Sans TC", "Noto Sans CJK TC", "WenQuanYi Micro Hei", SimSun, sans-serif;
   line-height: 1.7;
   text-transform: uppercase;
@@ -1372,9 +1297,9 @@ footer .copyright a:focus {
 }
 .btn-default:hover,
 .btn-default:focus {
-  background-color: #0085a1;
-  border: 1px solid #0085a1;
-  color: white;
+  background-color: #007b8a; /* 默认按钮悬停背景颜色，目前为蓝绿色 */
+  border: 1px solid #007b8a; /* 默认按钮悬停边框颜色，目前为蓝绿色 */
+  color: white; /* 默认按钮悬停文本颜色，目前为白色 */
 }
 .pager {
   margin: 20px 0 0 !important;
@@ -1382,10 +1307,6 @@ footer .copyright a:focus {
 }
 .pager li > a,
 .pager li > span {
-  /* Hux learn from
-     *     TypeIsBeautiful,
-     *     [This Post](http://zhuanlan.zhihu.com/ibuick/20186806) etc.
-     */
   font-family: -apple-system, BlinkMacSystemFont, "Helvetica Neue", "Arial", "PingFang SC", "Hiragino Sans GB", "STHeiti", "Microsoft YaHei", "Microsoft JhengHei", "Source Han Sans SC", "Noto Sans CJK SC", "Source Han Sans CN", "Noto Sans SC", "Source Han Sans TC", "Noto Sans CJK TC", "WenQuanYi Micro Hei", SimSun, sans-serif;
   line-height: 1.7;
   text-transform: uppercase;
@@ -1393,7 +1314,7 @@ footer .copyright a:focus {
   font-weight: 800;
   letter-spacing: 1px;
   padding: 10px;
-  background-color: white;
+  background-color: white; /* 分页背景颜色，目前为白色 */
   border-radius: 0;
 }
 @media only screen and (min-width: 768px) {
@@ -1404,45 +1325,44 @@ footer .copyright a:focus {
   }
 }
 .pager li > a {
-  color: #404040;
+  color: #404040; /* 分页链接颜色，目前为深灰色 */
 }
 .pager li > a:hover,
 .pager li > a:focus {
-  color: white;
-  background-color: #0085a1;
-  border: 1px solid #0085a1;
+  color: white; /* 分页链接悬停文本颜色，目前为白色 */
+  background-color: #007b8a; /* 分页链接悬停背景颜色，目前为蓝绿色 */
+  border: 1px solid #007b8a; /* 分页链接悬停边框颜色，目前为蓝绿色 */
 }
 .pager li > a:hover > span,
 .pager li > a:focus > span {
-  color: white;
+  color: white; /* 分页链接悬停文本颜色，目前为白色 */
 }
 .pager .disabled > a,
 .pager .disabled > a:hover,
 .pager .disabled > a:focus,
 .pager .disabled > span {
-  color: #a3a3a3;
-  background-color: #404040;
+  color: #a3a3a3; /* 禁用分页链接颜色，目前为中灰色 */
+  background-color: #404040; /* 禁用分页背景颜色，目前为深灰色 */
   cursor: not-allowed;
 }
 ::-moz-selection {
-  color: white;
+  color: white; /* 选中文本颜色，目前为白色 */
   text-shadow: none;
-  background: #0085a1;
+  background: #007b8a; /* 选中文本背景颜色，目前为蓝绿色 */
 }
 ::selection {
-  color: white;
+  color: white; /* 选中文本颜色，目前为白色 */
   text-shadow: none;
-  background: #0085a1;
+  background: #007b8a; /* 选中文本背景颜色，目前为蓝绿色 */
 }
 img::selection {
-  color: white;
-  background: transparent;
+  color: white; /* 选中图片颜色，目前为白色 */
+  background: transparent; /* 选中图片背景颜色，目前为透明 */
 }
 img::-moz-selection {
-  color: white;
-  background: transparent;
+  color: white; /* 选中图片颜色，目前为白色 */
+  background: transparent; /* 选中图片背景颜色，目前为透明 */
 }
-/* Hux add tags support */
 .d-none {
   display: none !important;
 }
@@ -1456,10 +1376,10 @@ img::-moz-selection {
 .tags a,
 .tags .tag {
   display: inline-block;
-  border: 1px solid rgba(255, 255, 255, 0.8);
+  border: 1px solid rgba(255, 255, 255, 0.8); /* 标签边框颜色，目前为白色透明 */
   border-radius: 999em;
   padding: 0 10px 0 10px;
-  color: #ffffff;
+  color: #ffffff; /* 标签文本颜色，目前为白色 */
   line-height: 24px;
   font-size: 12px;
   text-decoration: none;
@@ -1476,9 +1396,9 @@ img::-moz-selection {
 .tags .tag:hover,
 .tags a:active,
 .tags .tag:active {
-  color: white;
-  border-color: white;
-  background-color: rgba(255, 255, 255, 0.4);
+  color: white; /* 标签悬停文本颜色，目前为白色 */
+  border-color: white; /* 标签悬停边框颜色，目前为白色 */
+  background-color: rgba(255, 255, 255, 0.4); /* 标签悬停背景颜色，目前为白色透明 */
   text-decoration: none;
 }
 @media only screen and (min-width: 768px) {
@@ -1508,7 +1428,7 @@ img::-moz-selection {
   line-height: 28px;
   margin: 0 2px;
   margin-bottom: 8px;
-  background: #f3f5f5;
+  background: #f3f5f5; /* 标签云背景颜色，目前为浅灰色 */
 }
 #tag_cloud a:hover,
 #tag_cloud .tag:hover,
@@ -1516,7 +1436,7 @@ img::-moz-selection {
 #tag_cloud .tag:active,
 #tag_cloud a.focus,
 #tag_cloud .tag.focus {
-  background-color: #0085a1 !important;
+  background-color: #007b8a !important; /* 标签云悬停背景颜色，目前为蓝绿色 */
 }
 #tag_cloud a.focus,
 #tag_cloud .tag.focus {
@@ -1525,7 +1445,7 @@ img::-moz-selection {
 #tag_cloud a.tag-button--all,
 #tag_cloud .tag.tag-button--all {
   font-weight: 700;
-  color: #0085a1 !important;
+  color: #007b8a !important; /* 标签云“全部”按钮颜色，目前为蓝绿色 */
 }
 #tag_cloud a.tag-button--all:hover,
 #tag_cloud .tag.tag-button--all:hover,
@@ -1533,7 +1453,7 @@ img::-moz-selection {
 #tag_cloud .tag.tag-button--all:active,
 #tag_cloud a.tag-button--all.focus,
 #tag_cloud .tag.tag-button--all.focus {
-  background-color: #e4e4e4 !important;
+  background-color: #e4e4e4 !important; /* 标签云“全部”按钮悬停背景颜色，目前为浅灰色 */
 }
 @media only screen and (min-width: 768px) {
   #tag_cloud {
@@ -1552,7 +1472,7 @@ img::-moz-selection {
   margin-top: 0px;
 }
 .listing-seperator {
-  color: #0085a1;
+  color: #007b8a; /* 列表分隔符颜色，目前为蓝绿色 */
   font-size: 21px !important;
 }
 .listing-seperator::before {
@@ -1569,10 +1489,6 @@ img::-moz-selection {
 }
 .mini-post-list .tag-text {
   font-weight: 200;
-  /* Hux learn from
-     *     TypeIsBeautiful,
-     *     [This Post](http://zhuanlan.zhihu.com/ibuick/20186806) etc.
-     */
   font-family: -apple-system, BlinkMacSystemFont, "Helvetica Neue", "Arial", "PingFang SC", "Hiragino Sans GB", "STHeiti", "Microsoft YaHei", "Microsoft JhengHei", "Source Han Sans SC", "Noto Sans CJK SC", "Source Han Sans CN", "Noto Sans SC", "Source Han Sans TC", "Noto Sans CJK TC", "WenQuanYi Micro Hei", SimSun, sans-serif;
   line-height: 1.7;
 }
@@ -1610,23 +1526,19 @@ img::-moz-selection {
     font-size: 18px;
   }
 }
-/* Tags support End*/
-/* Hux make all img responsible in post-container */
 .post-container img {
   display: block;
   max-width: 100%;
   height: auto;
   margin: 1.5em auto 1.6em auto;
 }
-/* Hux Optimize UserExperience */
 .navbar-default .navbar-toggle:focus,
 .navbar-default .navbar-toggle:hover {
   background-color: inherit;
 }
 .navbar-default .navbar-toggle:active {
-  background-color: rgba(255, 255, 255, 0.25);
+  background-color: rgba(255, 255, 255, 0.25); /* 导航栏切换按钮活动背景颜色，目前为白色透明 */
 }
-/* Hux customize Style for navBar button */
 .navbar-default .navbar-toggle {
   border-color: transparent;
   padding: 19px 16px;
@@ -1638,7 +1550,7 @@ img::-moz-selection {
 .navbar-default .navbar-toggle .icon-bar {
   width: 18px;
   border-radius: 0px;
-  background-color: white;
+  background-color: white; /* 导航栏切换按钮图标颜色，目前为白色 */
 }
 .navbar-default .navbar-toggle .icon-bar + .icon-bar {
   margin-top: 3px;
@@ -1676,16 +1588,16 @@ img::-moz-selection {
   bottom: 0;
   padding-bottom: 20px;
   opacity: 0.6;
-  color: #fff;
+  color: #fff; /* 全屏页面页脚颜色，目前为白色 */
 }
 .page-fullscreen footer .copyright {
-  color: #fff;
+  color: #fff; /* 全屏页面页脚版权颜色，目前为白色 */
 }
 .page-fullscreen footer .copyright a {
-  color: #fff;
+  color: #fff; /* 全屏页面页脚版权链接颜色，目前为白色 */
 }
 .page-fullscreen footer .copyright a:hover {
-  color: #ddd;
+  color: #ddd; /* 全屏页面页脚版权链接悬停颜色，目前为浅灰色 */
 }
 .MathJax_SVG_Display {
   overflow: auto;
