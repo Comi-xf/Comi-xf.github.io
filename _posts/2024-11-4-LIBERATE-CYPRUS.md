@@ -1,8 +1,8 @@
 ---
 layout:     post
-title:     "【翻译中】解放塞浦路斯"
+title:     "解放塞浦路斯"
 subtitle:   "自由西亚和北非-终结帝国主义"
-date:       2024-10-29
+date:       2024-11-16
 author:     "Comi"
 catalog:    true
 header-img: "img/splsa1.jpg"
@@ -26,7 +26,7 @@ tags:
 
 1964年12月11日，**切·格瓦拉**在联合国大会的历史性讲话中谈到了其中一些活动，他说：**“由于土耳其政府和北约的压力，和平共处在塞浦路斯也受到了严峻的考验”。**
 
-然而，主流政治行为者继续将塞浦路斯发生的事情仅仅描述为希腊语系和土耳其语系塞浦路斯人之间的“分裂”，而不是帝国主义占领。这种错误认知的形成始于英国的“**分而治之**”策略，并延续到他们从1930年代开始对塞浦路斯民族主义或塞浦路斯主义的反帝国主义和进步运动的系统性战争。如今，帝国主义者及岛上的“两族两区联邦主义”和“双国主义”阵线仍在继续与那些争取没有分裂或隔离的自由塞浦路斯的人们作战。
+然而，主流政治行为者继续将塞浦路斯发生的事情仅仅描述为希腊语系和土耳其语系塞浦路斯人之间的“分裂”，而不是帝国主义占领。这种错误认知的形成始于英国的“**分而治之**”策略，并延续到他们从1930年代开始对塞浦路斯民族主义或塞浦路斯主义的反帝国主义和进步运动的系统性战争。如今，帝国主义者及岛上的“两族两区联邦主义”和“两国主义”阵线仍在继续与那些争取没有分裂或隔离的自由塞浦路斯的人们作战。
 
 在短短几十年内，这片小土地经历了殖民统治、解放斗争、独立、政变、占领、强制迁移、殖民者定居、反人类罪行以及帝国主义者强加的种族隔离式“解决方案”。为转移国际社会对该岛正在发生的事情的注意力而进行的激烈努力表明，“塞浦路斯问题”不是塞浦路斯人的问题。因为当我们谈论塞浦路斯的解放时，我们实际上是在谈论整个**西亚和北非**的自由，以及切断帝国主义在整个地区的咽喉。
 
@@ -36,93 +36,99 @@ tags:
 
 塞浦路斯岛位于欧洲、亚洲和非洲三大洲的交汇处，历史上曾被多个外国势力统治，包括亚述人、埃及人、波斯人、罗马人、阿拉伯人、圣殿骑士团、卢西尼亚王朝、威尼斯人、奥斯曼人和英国人，他们的目标都是称霸地中海和中东地区。
 
-影响今天这个岛屿的历史时期始于1571年奥斯曼帝国从威尼斯人手中征服塞浦路斯。与他们征服的许多其他地方一样，奥斯曼人试图在塞浦路斯建立一个“忠诚的少数群体”。在天主教威尼斯统治下受压迫的东正教人口获得了奥斯曼帝国的特权，而天主教人口被迫改信伊斯兰教。这种情况下，加上对非穆斯林征收额外税收，创造了利诺班巴基[^1]（Linobambaki）秘密基督徒社群，这是今天极度世俗化的讲土耳其语的塞浦路斯人最大的社会文化元素。
+影响今天这个岛屿的历史时期始于1571年奥斯曼帝国从威尼斯人手中征服塞浦路斯。与他们征服的许多其他地方一样，奥斯曼人试图在塞浦路斯建立一个“忠诚的少数群体”。在天主教威尼斯统治下受压迫的东正教人口获得了奥斯曼帝国的特权，而天主教人口被迫改信伊斯兰教。这种情况下，加上对非穆斯林征收额外税收，创造了利诺班巴基[^1]（Linobambaki）秘密基督徒社群，这是今天极度世俗化的土耳其语塞浦路斯人最大的社会文化元素。
 
-**第一次重要的塞浦路斯民族解放运动**发生在1833年，这是**法国大革命**后民族意识觉醒的结果。反对奥斯曼帝国的最大规模独立斗争由一位讲土耳其语的塞浦路斯人、被称为“异教徒伊玛目”的波利斯的易卜拉欣·阿迦领导，他团结了讲希腊语和讲土耳其语的塞浦路斯人（主要是农民）以解放塞浦路斯。尽管塞浦路斯人英勇抗争，但奥斯曼人在东正教会的帮助下赢得了战争。**加武尔·伊玛目起义**[^2]对马克思主义者和革命者而言一直被视为重要的历史事件，因为这是一场农民和被压迫者反对殖民主义及其走狗的运动。
+**第一次重要的塞浦路斯民族解放运动**发生在1833年，这是**法国大革命**后民族意识觉醒的结果。反对奥斯曼帝国的最大规模独立斗争由一位土耳其语塞浦路斯人、被称为“异教徒伊玛目”的波利斯的易卜拉欣·阿迦领导，他团结了希腊语和土耳其语塞浦路斯人（主要是农民）以解放塞浦路斯。尽管塞浦路斯人英勇抗争，但奥斯曼人在东正教会的帮助下赢得了战争。**加武尔·伊玛目起义**[^2]对马克思主义者和革命者而言一直被视为重要的历史事件，因为这是一场农民和被压迫者反对殖民主义及其走狗的运动。
 
 在奥斯曼帝国衰落时期，奥斯曼帝国根据**1878年**的塞浦路斯公约将塞浦路斯租借给英国。当时塞浦路斯对英国特别重要，因为它地理位置优越，方便控制**苏伊士运河**。第一次世界大战期间奥斯曼帝国加入同盟国后，英帝国于**1914年**正式吞并了塞浦路斯。与奥斯曼人不同的是，奥斯曼人在人口普查和行政管理中并不使用族裔术语来区分塞浦路斯人，而英国人为了对抗**塞浦路斯民族主义**的兴起，在塞浦路斯人中实施了分而治之的政策。在此期间，东正教徒被视为希腊人，所有穆斯林都被归类为土耳其人——这个术语是首次引入塞浦路斯社会。英国人还从希腊和新成立的土耳其带来教师，在塞浦路斯人中推广族裔主义思想，如**“合并”（Enosis；将塞浦路斯并入希腊）**和**“分治”（Taksim；分割塞浦路斯）**。
 
-受**1929年大萧条**影响，1931年讲希腊语的塞浦路斯人中的一些群体以“合并”为动机发动了起义。后来被取缔的塞浦路斯共产党[^3]参与了这次起义，要求自治，反对他们认为“反革命”的“合并”。随后，1933年英国任命**里士满·帕默**[^4]为塞浦路斯总督，开启了一个被称为“帕默专制”的英国殖民专制统治时期。1936年10月23日，英国殖民总督里士满·帕默在给伦敦的报告中写道：
+受**1929年大萧条**影响，1931年希腊语塞浦路斯人中的一些群体以“合并”为动机发动了起义。后来被取缔的塞浦路斯共产党[^3]参与了这次起义，要求自治，反对他们认为“反革命”的“合并”。随后，1933年英国任命**里士满·帕默**[^4]为塞浦路斯总督，开启了一个被称为“帕默专制”的英国殖民专制统治时期。1936年10月23日，英国殖民总督里士满·帕默在给伦敦的报告中写道：
 
 “为了让岛上的未来更加轻松，我们必须继续在除了例外情况的基础上、以地区为基础进行管理。因此，塞浦路斯民族主义的概念——在“合并”成为一种被侵蚀的价值之后将作为一个新概念出现——也应该被尽可能地推到一边并丢在黑暗中。”
 
----
+尽管塞浦路斯人表现出团结，就像**1948年矿工罢工**[^1]所呈现的那样，但英国殖民者采用的“分而治之”策略导致了与其他反殖民斗争不同的结局。与世界其他地区不同，20世纪50年代塞浦路斯的主要武装斗争并不是为了独立，而是为了“合并”。1952年，由于**杜鲁门主义**和土耳其与苏联在连接黑海和地中海的土耳其海峡的危机，北约接纳土耳其和希腊加入联盟。通过这第一次北约扩张，美国确保了其**第六舰队**在东欧和中东的安全。**1955年**，**塞浦路斯战士全国组织（EOKA）**发起了反对英国争取统一的武装斗争。这一年，未来的塞浦路斯总统马卡里奥斯大主教也参加了反殖民的**万隆会议**。随着主要由希腊语塞浦路斯人组成 EOKA 的武装斗争继续，英国殖民政府雇用土耳其语塞浦路斯人加入其警察部队，以在塞浦路斯社会制造紧张局势。与此同时，英国还帮助建立了**土耳其抵抗组织（TMT）**，以镇压为从殖民当局独立而战的土耳其语塞浦路斯人。在此期间，TMT 负责暗杀进步人士和社会主义者，包括《革命报》的负责人和编辑法**齐尔·昂德尔**。
 
-未翻译部分
+到了20世纪50年代末，英国无力镇压武装斗争，因此他们希望找到一个不会破坏北约稳定的解决方案。因此，希腊和土耳其被纳入《伦敦协议》和《苏黎世协议》，使塞浦路斯成为一个统一的**联合**共和国，希腊语和土耳其语塞浦路斯人之间分享权力。此外，英国保留了对塞浦路斯两个地区的控制，并被授予与希腊和土耳其一起对该岛进行军事干预的权利。
 
-尽管塞浦路斯人表现出团结，如1948年矿工罢工所示，但英国人采用的分而治之策略使塞浦路斯的结果与其他反殖民斗争不同。与世界其他地方不同，1950年代塞浦路斯的主要武装斗争目标不是独立，而是统一。1952年，由于杜鲁门主义和土耳其与苏联在连接黑海和地中海的土耳其海峡的危机，北约接纳土耳其和希腊加入联盟。通过这第一次北约扩张，美国确保了其第六舰队在东欧和中东的安全。1955年，EOKA组织发起了反对英国争取统一的武装斗争。这一年，未来的塞浦路斯总统马卡里奥斯大主教也参加了反殖民的万隆会议。随着主要由讲希腊语的塞浦路斯人组成的EOKA的武装斗争继续，英国殖民政府雇用讲土耳其语的塞浦路斯人加入其警察部队，以在塞浦路斯社会制造紧张局势。同时，英国人还帮助建立了由讲土耳其语的塞浦路斯人组成的准军事组织TMT，以镇压为独立而战的讲土耳其语的塞浦路斯人。在此期间，TMT负责暗杀进步人士和社会主义者，包括《革命报》的所有者和编辑法齐尔·昂德尔。
+**塞浦路斯共和国**于1960年8月16日成立，讲希腊语的塞浦路斯大主教马卡里奥斯担任总统，讲土耳其语的塞浦路斯人法齐尔·库丘克担任副总统。共和国的新领导人选择了土耳其语塞浦路斯艺术家伊斯梅特·居内伊设计的**国旗**和**国徽**作为塞浦路斯的国家象征，以象征塞浦路斯的统一。
 
-到1950年代末，英国无法镇压武装斗争，所以他们想找到一个不会破坏北约的解决方案。因此，希腊和土耳其被纳入伦敦和苏黎世协议，这些协议使塞浦路斯成为一个统一的共治共和国，讲希腊语和讲土耳其语的塞浦路斯人共同分享权力。此外，英国保留了塞浦路斯的两个地区的控制权，并与希腊和土耳其一起获得了在岛上进行军事干预的权利。
+一年后，塞浦路斯共和国成为不结盟运动的创始成员。马卡里奥斯在反帝国主义世界的声望使他赢得了美国政治家给他起的“地中海的卡斯特罗”的绰号。
 
-塞浦路斯共和国于1960年8月16日成立，讲希腊语的塞浦路斯大主教马卡里奥斯担任总统，讲土耳其语的塞浦路斯人法齐尔·库丘克担任副总统。共和国的新领导人选择了讲土耳其语的塞浦路斯艺术家伊斯梅特·居内伊设计的国旗和国徽作为塞浦路斯的国家象征，以象征塞浦路斯的统一。
+**1963年**，马卡里奥斯想要单方面改变共治宪法，但这遭到了土耳其语塞浦路斯领导层的反对，后者随后退出政府。当时在五·二七革命左倾军事运动[^6]影响下的土耳其政府反对土耳其语塞浦路斯领导层的决定。而支持塞浦路斯共和国存在或反对离开政府决定的反帝国主义的土耳其语塞浦路斯知名人士，如**艾汉·希克梅特**、**艾哈迈德·穆扎弗·居尔坎**、**德尔维什·阿里·卡瓦佐卢和伊赫桑·阿里**，成为了 TMT 的攻击目标。1964年8月，土耳其政府也改变了进步的对塞浦路斯政策，这与五·二七革命在土耳其内部影响的减弱同步，并在英军的后勤帮助下在塞浦路斯提利里亚地区组织了一次失败的登陆行动。这次行动类似于美国组织的**“猪湾登陆”**入侵古巴。包括切·格瓦拉在内的世界反帝国主义领导人和革命者谴责了这次行动。
 
-一年后，塞浦路斯共和国成为不结盟运动的创始成员。马卡里奥斯在反帝国主义世界的声望使他赢得了美国政治家给他起的"地中海的卡斯特罗"的绰号。
+**1967年**，美国支持的军政府在希腊夺取政权。这个右翼军事独裁政权帮助在塞浦路斯建立了**塞浦路斯战士全国组织-B[^7]（EOKA-B）**，以对抗被西方视为眼中钉的马卡里奥斯领导层。1971年，希腊和土耳其在**里斯本北约外长会议**上制定并同意了一项针对不结盟的塞浦路斯的计划。在里斯本制定的计划于1974年付诸实施。**1974年7月15日**，希腊在EOKA-B组织的帮助下在塞浦路斯发动政变。政变后，土耳其也以根据《伦敦协议》和《苏黎世协议》“保护塞浦路斯的宪法秩序”为借口，于1974年7月20日开始其第一次入侵塞浦路斯。几天之内，军政府垮台，政变结束，各方领导人在日内瓦会面。在旨在解决塞浦路斯局势的日内瓦会议期间，土耳其要求塞浦路斯政府接受其联邦制国家和人口转移计划[^8]。根据白宫记录，1974年8月13日，**亨利·基辛格**在与杰拉尔德·福特总统讨论塞浦路斯局势时说：**“美国没有理由阻止土耳其人拥有塞浦路斯的三分之一。”**土耳其由于无法在日内瓦得到对其要求的积极反馈，于1974年8月14日开始了第二次入侵。
 
-1963年，马卡里奥斯想要单方面改变共治宪法，但这遭到了讲土耳其语的塞浦路斯领导层的反对，他们随后离开了政府。当时在五二七革命左倾军事运动影响下的土耳其政府反对讲土耳其语的塞浦路斯领导层的决定。支持塞浦路斯共和国存在或反对离开政府决定的反帝国主义讲土耳其语的塞浦路斯重要人物，如艾汉·希克梅特、艾哈迈德·穆扎弗·居尔坎、德尔维什·阿里·卡瓦佐卢和伊赫桑·阿里，成为TMT的目标。1964年8月，土耳其政府也改变了其进步的塞浦路斯政策，这与五二七革命在土耳其内部影响的减弱同步，并在英军的后勤帮助下在塞浦路斯提利里亚地区组织了一次失败的登陆行动。这次行动类似于美国在古巴组织的"猪湾入侵"。包括切·格瓦拉在内的反帝国主义世界领导人和革命者谴责了这次行动。
+今天，土耳其的占领仍在继续，北约国家坚持认为**种族分离的“两族两区联邦主义”**是塞浦路斯的**“解决方案”**。但从1979年的“ABC（美英加）计划”到2004年的联合国“安南计划”[^9]，塞浦路斯人都拒绝接受这种种族隔离国家。随着时间推移，土耳其政客承认使用“联邦制”理念来掩盖他们的殖民活动。在塞浦路斯海域发现天然气资源的同时，土耳其最近还宣布其在岛上建立“两个国家”的目标。
 
-1967年，美国支持的军政府在希腊夺取政权。这个右翼军事独裁政权帮助在塞浦路斯建立了EOKA-B组织，反对被西方视为问题的马卡里奥斯领导层。1971年，希腊和土耳其在里斯本北约外长会议上制定并同意了一项针对不结盟塞浦路斯的计划。里斯本制定的计划在1974年付诸实施。1974年7月15日，希腊在EOKA-B组织的帮助下在塞浦路斯发动政变。政变后，土耳其于1974年7月20日开始其第一次入侵塞浦路斯，以根据伦敦和苏黎世协议"保护塞浦路斯的宪法秩序"为借口。几天之内，军政府垮台，政变结束，领导人在日内瓦会面。在旨在解决塞浦路斯局势的日内瓦会议期间，土耳其要求塞浦路斯政府接受其联邦制国家和人口转移计划。根据白宫记录，1974年8月13日，亨利·基辛格在与杰拉尔德·福特总统讨论塞浦路斯局势时说："没有任何美国理由阻止土耳其人拥有塞浦路斯的三分之一。"由于在日内瓦未能获得其要求的积极回应，土耳其于1974年8月14日开始第二次入侵。
+#### 反对种族隔离主义和定居者殖民主义
 
-今天，土耳其的占领仍在继续，北约国家坚持认为"双族裔双区联邦"是塞浦路斯的"解决方案"。但从1979年的ABC（美英加）计划到2004年的联合国安南计划，塞浦路斯人都拒绝了这种种族隔离国家。随着时间推移，土耳其政客承认使用"联邦制"理念来掩盖其殖民活动。在塞浦路斯海域发现天然气资源的同时，土耳其最近还宣布其在岛上建立"两个国家"的目标。
+塞浦路斯是欧盟唯一一个被占领的成员国。此外，尼科西亚是除耶路撒冷之外唯一仍有部分地区被占领的首都。自1974年被占领以来，塞浦路斯共和国控制的领土面积不足全岛的60%。
 
-#### AGAINST SEGREGATIONISM AND SETTLER COLONIALISM
+全岛大约36%的土地仍被土耳其军队占领，土耳其军队目前在该地区的陆军、空军和海军基地中拥有超过4万名驻军。
 
-Cyprus is the only European Union member state that is under occupation. In addition, Nicosia is the only capital, alongside Jerusalem, that still has parts under occupation. Currently, the Republic of Cyprus controls less than 60% of the island since its occupation in 1974.
+在自由区和被占区之间，联合国非军事区占据了塞浦路斯岛4%的面积，塞浦路斯人必须通过军事检查站才能穿越该岛。
 
-Approximately 36% is still occupied by the Turkish military, which currently has over 40,000 personnel in army, air, and naval bases in this area.
+除了土耳其，**英国还控制着塞浦路斯岛上的阿克罗蒂里和德凯利亚地区**，这两个地区大约占整个岛屿的3%。这些地区是英国在中东和地中海最重要的军事存在和信号情报站。**美军**也在使用这些区域。值得强调的是，目前共有五个北约成员国的军队在岛上使用空军和海军基地，其中包括希腊和法国。
 
-In between the free and occupied areas, the United Nations demilitarized Buffer Zone occupies 4% of the island, and Cypriots have to cross military checkpoints in order to travel through the island.
+维持现状，即**北约对塞浦路斯的占领**，对西方帝国主义来说至关重要。为了确保这一点，自1974年以来，西方在塞浦路斯实施了两项政策。第一项政策是提出类似于东欧的种族隔离式“解决方案”，并资助民间组织来宣扬分裂主义和隔离主义的“两族两区联邦”或“两国方案”理念。第二项政策是在被占领地区许可**定居者殖民主义**。
 
-Apart from Turkey, the **United Kingdom also still controls Akrotiri and Dhekelia areas**, which make up roughly 3% of the island. This territory is the most important military presence and a station for signals intelligence for the United Kingdom in the Middle East and Mediterranean. The areas are also used by the **United States** forces. It’s worth highlighting that in total, five militaries of NATO member countries are currently using air and naval bases on the island, including Greece and France.
+希腊语和土耳其语塞浦路斯人此前在同一城镇和村庄共同生活。然而，外国支持的准军事行动以及随后的占领导致塞浦路斯人的**强制性迁移**，从而被隔离开来。1974年，近一半的塞浦路斯人口被迫迁移。紧接着，土耳其开始将安纳托利亚的土耳其语居民迁往被占领土，并将他们安置在被驱逐的希腊族塞浦路斯人的房产中，以此改变岛上的人口结构。
 
-The protection of the status quo, namely the **NATO occupation of Cyprus**, continues to be crucial for Western imperialism. To ensure this, two policies have been applied by the West in Cyprus since 1974. The first policy involves the proposal of apartheidist “solutions,” similar to those implemented in Eastern Europe, and funding for civil society to promote separatist and segregationist “bicommunal bizonal federation” or “two-state” ideas. The second policy is to allow **settler colonialism** in the occupied areas.
+土耳其继续利用**非法土耳其定居者**来压迫土耳其语塞浦路斯人，并阻止希腊语塞浦路斯人返回家园。这些**定居者**被用来操纵土耳其语塞浦路斯人的政治意愿，他们的人数已经超过土耳其语塞浦路斯人，并制造了非法的既成事实。自1974年以来，土耳其利用非法定居者对土耳其语塞浦路斯人进行恐怖活动，包括暗杀政治领袖和记者，以及对媒体机构实施私刑袭击。
 
-Greek-speaking and Turkish-speaking Cypriots were previously living together in the same towns and villages. However, foreign-sponsored paramilitary actions, followed by the occupation, led to **forced displacements** to segregate Cypriots. In 1974, nearly half the population of Cyprus was forcibly displaced. Immediately after, Turkey began transferring the Turkish population from Anatolia to the occupied area and settling them in the properties of Greek-speaking Cypriots in order to change the demographic structure of the island.
+在国际社会和国际法看来，塞浦路斯的定居者殖民主义与巴勒斯坦的殖民主义如出一辙。这两个案件目前都正在接受国际刑事法院的审查。“北塞浦路斯土耳其共和国”和“以色列”的旗帜互相“借鉴”，它们都象征着**反人类罪行**。
 
-Turkey continues to use **illegal Turkish settlers** as a means of oppressing Turkish-speaking Cypriots and preventing Greek-speaking Cypriots from returning to their homes. These **settlers** are used to control the political will of Turkish-speaking Cypriots, whom they already outnumber, and to create illegal faits accomplis. Since 1974, Turkey has used illegal settlers to carry out terror activities against Turkish-speaking Cypriots, including assassinations of political leaders and journalists, and lynching attacks against media outlets.
+#### 塞浦路斯主义
 
-In the eyes of the international community and international law, settler colonialism in Cyprus and Palestine is considered identical. Both cases are currently under review by the International Criminal Court. The flags of the “Turkish Republic of Northern Cyprus” and “Israel,” which inspired each other, continue to symbolize the same **crimes against humanity**.
+塞浦路斯人团结一致反抗压迫的斗争是该岛历史的重要组成部分，从1833年反抗奥斯曼帝国占领的加武尔·伊玛目起义，到1948年英国占领时期矿工反抗美国所有的塞浦路斯矿业公司的运动。在塞浦路斯，阶级斗争和民族斗争根植于塞浦路斯民族主义，或者说**塞浦路斯主义**的反帝国主义意识形态中。
 
-#### CYPRIOTISM
+自1878年英国控制塞浦路斯以来，英国殖民者为了“分而治之”战略的成功，允许在岛上宣扬泛希腊主义和泛土耳其主义。不管怎样，他们也必须尽可能地压制塞浦路斯民族主义，因为殖民总督里士满·帕默认为这对于继续掠夺该岛至关重要。
 
-The **united struggle of Cypriots** against oppression is an important part of the island’s history, from the Gavur Imam Revolt against the Ottoman occupation in 1833 to the movement of the Cypriot miners against the American-owned Cyprus Mines Corporation under the British occupation in 1948. In Cyprus, the class and national struggle of Cypriots are rooted in the anti-imperialist ideology of Cypriot nationalism, or **Cypriotism**.
+塞浦路斯从英国独立后，许多著名的进步人士和社会主义者开始倡导塞浦路斯主义，以维护国家和人民的完整。然而，就像在殖民时期一样，他们仍然是帝国主义及其同伙的攻击目标。艾汉·希克梅特（Ayhan Hikmet）和艾哈迈德·穆扎弗·居尔坎（Ahmet Muzaffer Gürkan）的《共和国报》（Cumhuriyet）在他们遇刺身亡[^10]前发表了一篇题为**“塞浦路斯属于塞浦路斯人”（Kıbrıs Kıbrıslılarındır）**的宣言式文章。在1961年1月2日的文章中，他们写道：
 
-Since Cyprus came under the control of the United Kingdom in 1878, British colonizers allowed the promotion of Hellenism and Turkism in Cyprus for the success of their divide-and-rule strategy. However, they also had to suppress Cypriot nationalism as much as possible, as Colonial Governor Richmond Palmer believed it was necessary to continue exploiting the island.
+*“我们的国家，我们美丽的塞浦路斯，经历了由利益冲突导致的复杂、漫长而残酷的斗争，遵循历史的自然进程，终于摆脱了殖民主义的枷锁，加入了自由国家的大家庭……因此，每个热爱自己国家和民族的土耳其塞浦路斯人和希腊塞浦路斯人都有责任尊重彼此的权利，维护和发展独立的塞浦路斯，并竭尽全力为自己的社群创造更民主、繁荣、幸福与和平的生活……简而言之，塞浦路斯的独立不是被其他国家或地区吞并，而是由塞浦路斯人自己治理。”*
 
-After gaining independence from Britain, many prominent Cypriot progressives and socialists began advocating for Cypriotism to protect the integrity of the land and its people. However, they continued to be targeted by imperialists and their collaborators, just as in the colonial period. The Cumhuriyet (Republic) newspaper of Ayhan Hikmet and Ahmet Muzaffer Gürkan published a manifesto-like article entitled **“Cyprus belongs to Cypriots”** before they were assassinated. In their article on 2 January 1961, they wrote:
+塞浦路斯人共同的文化、历史、身份认同，尤其是对共同命运的信念，构成了进步的塞浦路斯民族主义的基础。塞浦路斯主义反对岛上任何形式的隔离或分裂，反对任何可能让外国势力统治塞浦路斯岛并无限期控制塞浦路斯的种族主义议程。因此**，“一个民族、一面旗帜、一个家园和一个国家”**这句话概括了塞浦路斯民族主义的核心原则。
 
-“Our country, our beautiful Cyprus, after complicated, long-lasting, and harsh fights that were the result of conflicting interests, following the natural course of history, was liberated from the yoke of colonialism and joined the community of free nations…. Therefore, the duty of every Turkish Cypriot and Greek Cypriot who loves their country and nation is to respect each other’s rights, to sustain and develop independent Cyprus, and to work with all their effort to provide their community with a more democratic, prosperous, happy, and peaceful life…. In brief, Cyprus’s independence is not its being annexed to another nation or state but to be governed by Cypriots.”
+塞浦路斯主义倡导塞浦路斯人的**民主团结**，不仅是为了一个没有街垒和外国军事基地的统一祖国，也是为了建立一个**世俗、进步和多元化**社会的基石。塞浦路斯民族主义者反对“种族配额”，相信通过“一人一票”原则和“单一选民名册”实现所有塞浦路斯人的政治平等。塞浦路斯民族主义强调超越制度化民族中心主义[^12]的统一民族认同的重要性，这对于一个独立国家的存在至关重要，也是对抗西方新殖民主义分裂企图的关键。
 
-The common culture, history, identity, and most importantly, the belief in the common destiny of Cypriots form the foundation of progressive Cypriot nationalism. Cypriotism opposes any form of segregation or separation on the island, rejects any ethnicist agenda that would allow foreign powers to rule the island and maintain their hold on Cyprus indefinitely. Hence, the phrase **“One nation, one flag, one homeland, and one state”** encapsulates the central principle of Cypriot nationalism.
+#### **塞浦路斯人反抗占领和北约**
 
-Cypriotism advocates for the **democratic unity** of Cypriots, not only for a unitary homeland without barricades and foreign military bases but also as the cornerstone of a **secular, progressive, and pluralist** society. Cypriot nationalists oppose “ethnic quotas” and believe in the political equality of all Cypriots through “one person, one vote” principle and a “single electoral roll.” The idea of Cypriot nationalism emphasizes the importance of a unifying national upper identity that transcends institutionalized ethnocentrisms, for the existence of an independent state, and against the neo-colonial divisive ambitions of the West.
+“妇女走回家运动”[^11]在 20 世纪 80 年代向被占领土进军，直面土耳其占领军，是抵抗的象征，正如今天的《欧洲报（Avrupa）》从前线揭露土耳其占领和殖民定居一样。值得强调的是，塞浦路斯的解放斗争并没有随着 1974 年的入侵而结束。
 
-#### CYPRIOTS’ RESISTANCE AGAINST OCCUPATION AND NATO
+对于失踪人员的亲属、被强迫迁移者的孩子以及被剥夺半个祖国的每个塞浦路斯人来说，斗争仍在继续。
 
-The Women Walk Home movement, which marched towards the occupied area and faced the Turkish occupation army in the 1980s, is a symbol of resistance, as the Avrupa newspaper exposes Turkish occupation and settler colonialism from the frontlines today. It is important to highlight that the liberation struggle of the Cypriots did not end with the 1974 invasion.
+**塞浦路斯联盟（Union of Cypriots）**是最大的反帝国主义、进步的塞浦路斯主义运动，拥有希腊语和土耳其语的塞浦路斯支持者，领导着争取完全独立和统一的塞浦路斯、摆脱外国占领和北约基地的斗争。塞浦路斯联盟所倡导的三项人道主义和正义原则是撤出土耳其军队、遣返土耳其非法定居者以及让被强迫迁移的塞浦路斯人返回家园。
 
-The struggle continues today for the relatives of missing persons, children of those forcibly displaced, and every Cypriot who is kept apart from half of their country.
+这场运动向北约的占领说“不”，也对成为北约“分而治之”计划的又一个受害者说“不”。该计划将塞浦路斯变成一个半殖民地，存在着人为制造的冲突和新帝国主义的存在。
 
-The **Union of Cypriots** is the largest anti-imperialist, progressive, and Cypriotist movement with Greek-speaking and Turkish-speaking Cypriot supporters, leading the fight for a fully independent and unitary Cyprus, free from foreign occupation and NATO bases. The three humanitarian and righteous principles that the Union of Cypriots campaigns for are the removal of Turkish troops, the repatriation of Turkish illegal settlers, and the return of forcibly displaced Cypriots to their homes.
+这个运动向北约的占领说“不”，也向沦为北约“两族两区联邦”分治计划的又一个牺牲品说“不”，这个计划包含了基于族群特征来定义和区分不同群体的措施，会将塞浦路斯变成一块半殖民地，卷入人为制造的冲突和新帝国主义介入。
 
-The movement says “no” to NATO occupation, as it also says “no” to becoming another victim of NATO’s divide-and-rule plan of “bicommunal bizonal federation” which incorporates ethnicity-defined group measures that will turn Cyprus into a semi-colony with the existence of artificial conflicts and neo-imperialist presence.
+塞浦路斯的孩子们对自由、正义和民主的要求与爱尔兰、巴勒斯坦、波多黎各、菲律宾以及其他仍被殖民的土地上的儿童的渴望一致。
 
-The demands for freedom, justice, and democracy of Cypriot children are the same as the demands of the children of Ireland, Palestine, Puerto Rico, the Philippines, and every land that is still being colonized.
-
-Cyprus is just another example that shows how peoples’ struggles and national liberation are interconnected worldwide, and **international solidarity** is the most powerful weapon to break the chains of oppression. In conclusion, the “unsinkable aircraft carrier” of NATO, **Cyprus**, must be liberated to ensure a free West Asia and North Africa, effectively block the United States Sixth Fleet from accessing the Eastern Mediterranean, and ultimately put an end to imperialism in all its forms.
+塞浦路斯只是众多例证中的一个，它表明世界各地人民的斗争和民族解放是如何紧密相连的，而国际团结正是打破压迫枷锁的最有力武器。总而言之，塞浦路斯——这座北约的“不沉航母”——必须获得解放，才能确保西亚和北非的自由，有效阻止美国第六舰队进入地中海东部，并最终终结一切形式的帝国主义。
 
 ---
 
 **参考**
 
-[^1]:利诺班巴基：**Linobambaki**或**Linovamvaki**是塞浦路斯的一个隐秘基督教社区，主要是天主教和希腊东正教后裔，他们在奥斯曼帝国统治期间因其宗教信仰而受到迫害。他们在英国统治期间融入土族塞人社区。https://en.wikipedia.org/wiki/Linobambaki
+[^1]:利诺班巴基：**Linobambaki** 或 **Linovamvaki** 是塞浦路斯的一个隐秘基督教社区，主要是天主教和希腊东正教后裔，他们在奥斯曼帝国统治期间因其宗教信仰而受到迫害。他们在英国统治期间融入土族塞人社区。https://en.wikipedia.org/wiki/Linobambaki
 [^2]:加武尔·伊玛目起义：加武尔伊玛目的斗争继续给塞浦路斯人与外国势力的斗争带来希望，这些外国势力想要占领塞浦路斯并隔离塞浦路斯人。塞浦路斯主义是反对外国势力在岛上推行的反动的希腊和土耳其民族主义的意识形态，它继续在塞浦路斯的政治舞台上强势存在。https://libcom.org/article/gavur-imam-sung-hero-cypriots
 [^3]:塞浦路斯共产党（KKK）成立于1926年8月15日，是塞浦路斯最早的左翼政党。该党的诞生源于20世纪10年代末在利马索尔出现的第一批社会主义团体，最初由扬戈斯·伊利亚季斯和帕诺斯·法苏利奥蒂斯领导。 党的发展经历了几个重要阶段：首先是1922年底以塞浦路斯工人党的形式出现，并创办了该国第一份社会主义报纸《火炬报》。随后在1923年更名为塞浦路斯工农党，并在当年底进一步改称塞浦路斯工农党（共产党）。期间，党内经历了共产主义派与社会民主主义派的路线斗争，最终以共产主义派胜出。 1926年的正式成立标志着塞浦路斯共产党的正式诞生。该党与希腊共产党保持密切联系，并试图加入第三国际。党的成立是塞浦路斯工人阶级觉醒的产物，也受到十月革命的重大影响。 **在1931年的反殖民“十月起义”**中，塞浦路斯共产党最初感到意外和犹豫，因为起义的领导者是资产阶级民族主义者。共产党认为这些人利用人民对自由、统一和繁荣的渴望来推进他们的个人利益。然而，随后该党号召其所有党员引导人民进行反帝国主义斗争。事实上，该党希望建立一个反对殖民主义的统一战线，并指出**民族主义者（他们想与希腊统一）和共产主义者（他们支持在巴尔干社会主义联邦内的独立塞浦路斯）之间的分歧可以在英国人撤离后解决**。然而，起义失败后，党被英国殖民当局宣布为非法组织，多位领导人被流放或监禁。 尽管遭受打击，该党在20世纪30年代末致力于工会运动的发展，促成了全塞浦路斯工会委员会（PSE）的成立。在西班牙内战期间，约59名党员加入国际纵队对抗法西斯势力。 二战爆发后，1941年该党与其他民主力量共同创立了进步工人党（劳动人民进步党；AKEL），以进行合法活动。1944年11月，在第五次代表大会上，塞浦路斯共产党正式与AKEL合并。此后，进步工人党成为塞浦路斯左翼运动的主要代表，继承了共产党的政治传统。 塞浦路斯共产党的历史反映了该国现代政治发展的重要篇章，见证了塞浦路斯从殖民统治到独立的历程，在工人权益保护和反帝斗争中发挥了重要作用。https://el.wikipedia.org/wiki/%CE%9A%CE%BF%CE%BC%CE%BC%CE%BF%CF%85%CE%BD%CE%B9%CF%83%CF%84%CE%B9%CE%BA%CF%8C_%CE%9A%CF%8C%CE%BC%CE%BC%CE%B1_%CE%9A%CF%8D%CF%80%CF%81%CE%BF%CF%85
-[^4]:里士满·帕尔默：https://en.wikipedia.org/wiki/Richmond_Palmer
+[^4]:里士满·帕默：一位英国律师，在两次世界大战期间成为英国的殖民地督察。他曾担任尼日利亚副总督、冈比亚总督兼总司令、塞浦路斯总督兼总司令。https://en.wikipedia.org/wiki/Richmond_Palmer
 
+[^5]: 1948年1月13日，塞浦路斯美国矿业公司（CMC）的矿工因不堪忍受非人道和极其危险的工作条件而罢工。工人们要求加薪、周日加班费、成立劳资纠纷委员会、修理工人的住房并重新雇佣被解雇的工人。大约4300名希腊人和土耳其矿工、石棉工人和建筑工人一起罢工，并得到了当地大多数工人的支持。但英国殖民政府、教会和塞浦路斯工人联合会（SEK）联合反对罢工。政府派出警察对付罢工者，教会谴责“共产主义无政府状态”，SEK试图招募替代性工人，声称：“宁愿蓝色的12小时，也不愿红色的8小时”（即“宁愿在右翼地方工作12小时，也不愿在左翼地方工作8小时”）。3月3日，警方在马夫罗武尼矿山向罢工矿工开火，造成多人受伤。为了抗议枪击事件，3月6日举行了全国罢工，工人们走上街头，举着希腊语和土耳其语的标语。（1）https://stories.workingclasshistory.com/article/7743/cyprus-miners-strike （2）https://www.wftucentral.org/cyprus-70-years-since-the-heroic-strike-of-the-miners-and-construction-workers-in-cyprus-in-1948/
+[^6]:在20世纪50年代，土耳其的民主党在阿德南·门德列斯的领导下执政。最初，民主党的政策受到欢迎，但随着时间的推移，政府因其经济政策及对反对派的压制而受到越来越多的批评。50年代后期，土耳其面临严重的经济问题，包括高通货膨胀和外债问题，这导致了公众对政府的不满。门德列斯政府对反对派的压制加剧了社会紧张。政府采取了严格的新闻检查制度，并打击反对党派和知识分子，导致社会动荡和政治局势不稳。土耳其军方的一部分年轻军官决定采取行动。他们认为军队有责任保护国家的世俗和民主原则。1960年5月27日，军方发动政变，迅速控制了政府机构和国家广播电台。阿德南·门德列斯和其他政府高官被逮捕。政变后，军方成立了“国家团结委员会”，由将军杰马尔·古尔塞尔（Cemal Gürsel）领导，负责国家的临时管理。政变后的临时政府实施了一些社会和经济改革，并在1961年通过公投颁布了被认为相对进步的新宪法，加强了公民自由、新闻自由和司法独立。实际上发起政变的一些军官是亲北约的，且反共产主义。然而，政变后组建的政府虽然执政时间不长，但却创造了一种政治氛围，导致了土耳其历史上最独特、最大规模的左翼崛起。人民解放党（HKP）和爱国党（VP）认为这是一场革命。在对塞浦路斯政策上，该政府反对说土耳其的塞浦路斯政府官员决定离开塞浦路斯政府。
 
-
----
-
-
+[^7]:EOKA-B 是一个塞浦路斯极右翼希腊民族主义组织，由乔治·格里瓦斯 （George Grivas）将军于1974年1月17日创立，他是希腊内战期间强烈反共的军事领导人，也是1950年代初期 EOKA 的创始人之一。EOKA-B 组织通过暴力手段，包括暗杀和恐怖袭击，试图推翻马卡里奥斯总统的政府，以实现他当初与希腊的“合并”目标。虽然 EOKA（1955-1959）被大多数希族塞人视为反殖民主义自由斗士，但 EOKA-B 并没有得到希族塞人的压倒性支持，马卡里奥斯在被暗杀失败后的选举中，他和他的联盟赢得了 35 个席位中的 27 个。而 EOKA-B 的主要支持者是在上次选举中赢得 7 个席位的亲“合并”支持者、认为自己在起义后从未得到应有认可的老 EOKA 战士、右翼军事人员和一些亲“合并”的法西斯塞浦路斯教会。共产党-劳动人民进步党（AKEL）此时的立场是反对 EOKA-B。EOKA-B在1978年正式解散。
+[^8]:土耳其希望将塞浦路斯分裂为一个由希腊语塞浦路斯人控制的南部和一个由土耳其语塞浦路斯人控制的北部，这两个实体各自拥有自己的政府和军队，但同时又松散地联合在一个联邦之下。同时，土耳其希望通过大规模的、有组织的人口转移，将居住在北部地区的希腊语塞浦路斯人迁往南部，同时将土耳其本土的居民迁入北部，从而改变岛上的民族构成，确保土耳其在北部的长期控制。
+[^9]:塞浦路斯安南计划是联合国提出的一个解决塞浦路斯问题的方案。计划内容是建立一个由两个政治实体组成的联邦国家塞浦路斯联合共和国，在公投中没有通过。
+[^10]:艾哈迈德·穆扎弗·古尔坎和艾汉·希克迈特谋杀案：两人是塞浦路斯《共和国报（Cumhuriyet）》报纸的出版者，也是土耳其语塞浦路人人民党的创始人，他们在1962年4月23日至4月24日的夜间成为谋杀悬案的受害者，两名记者均在家中被杀。https://tr.wikipedia.org/wiki/Ahmet_Muzaffer_G%C3%BCrkan_ve_Ayhan_Hikmet_cinayetleri
 
 原文链接：https://www.cypriots.org/publications/2023/06/01/liberate-cyprus/
+
+[^11]: Ethnocentrism：种族中心主义，又译作民族优越感、民族中心主义；民族中心主义是指以自己的文化或种族为参考框架来判断其他文化、实践、行为、信仰和人民，而不是使用特定的标准，与之对立的是 Cultural Relativism。
+[^12]:“妇女走回家运动”（Women walk home）是一项非党派政治倡议，由一群希腊语塞浦路斯妇女提出，并得到了来自美国和欧洲的有意识的妇女的支持。倡议的目标是希望分裂的塞浦路斯岛共和国重新统一以及希腊语塞浦路斯人和土耳其语塞浦路斯人社区在没有外来干涉或人为障碍的情况下和平共处。“绿线（或阿提拉线）”是一条臭名昭著的军事线，由 35,000 名土耳其军队维护，将塞浦路斯东西/北南分开，并将讲希腊语和土耳其语的塞浦路斯人分开。 1975年春天、1987年6月和11月以及1989年3月，妇女们打着“妇女走回家”的旗号，勇敢地面对联合国和土耳其军队，试图越过军事线，她们坚决但和平地抵抗塞浦路斯的分裂。https://cyprus.com.cy/index.php/en/women-walk-home
+
+
+
