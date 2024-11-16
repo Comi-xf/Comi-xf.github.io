@@ -178,7 +178,7 @@ tags:
 
 ---
 
-##### 其他参考读物：
+#### 其他参考读物
 
 1. [处于十字路口的塞浦路斯--《雅各宾杂志》](https://jacobin.com/2015/05/cyprus-communists-syriza-greece)
 2. 《共产主义和民族主义：战后的塞浦路斯 1945-1955》（Communism and Nationalism in Postwar Cyprus 1945-1955）[PDF](https://codeberg.org/comi/sharing/raw/commit/006a884ee3a3a90e7b3a4c0f8bc156c487398de9/2024-11/Communism%20and%20Nationalism%20in%20Postwar%20Cyprus%201945-1955.pdf)
