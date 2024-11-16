@@ -130,5 +130,14 @@ tags:
 [^11]: Ethnocentrism：种族中心主义，又译作民族优越感、民族中心主义；民族中心主义是指以自己的文化或种族为参考框架来判断其他文化、实践、行为、信仰和人民，而不是使用特定的标准，与之对立的是 Cultural Relativism。
 [^12]:“妇女走回家运动”（Women walk home）是一项非党派政治倡议，由一群希腊语塞浦路斯妇女提出，并得到了来自美国和欧洲的有意识的妇女的支持。倡议的目标是希望分裂的塞浦路斯岛共和国重新统一以及希腊语塞浦路斯人和土耳其语塞浦路斯人社区在没有外来干涉或人为障碍的情况下和平共处。“绿线（或阿提拉线）”是一条臭名昭著的军事线，由 35,000 名土耳其军队维护，将塞浦路斯东西/北南分开，并将讲希腊语和土耳其语的塞浦路斯人分开。 1975年春天、1987年6月和11月以及1989年3月，妇女们打着“妇女走回家”的旗号，勇敢地面对联合国和土耳其军队，试图越过军事线，她们坚决但和平地抵抗塞浦路斯的分裂。https://cyprus.com.cy/index.php/en/women-walk-home
 
+**其他参考读物：**
 
+1. [处于十字路口的塞浦路斯--《雅各宾杂志》](https://jacobin.com/2015/05/cyprus-communists-syriza-greece)
+2. 《共产主义和民族主义：战后的塞浦路斯 1945-1955》（Communism and Nationalism in Postwar Cyprus 1945-1955）[PDF](https://codeberg.org/comi/sharing/raw/commit/006a884ee3a3a90e7b3a4c0f8bc156c487398de9/2024-11/Communism%20and%20Nationalism%20in%20Postwar%20Cyprus%201945-1955.pdf)
+3. 《塞浦路斯共产党的历史-殖民主义、阶级和塞浦路斯左派》（The History of the Communist Party in Cyprus - Colonialism, Class and the Cypriot Left）[PDF](https://codeberg.org/comi/sharing/raw/commit/006a884ee3a3a90e7b3a4c0f8bc156c487398de9/2024-11/The%20History%20of%20the%20Communist%20Party%20in%20Cyprus%20Colonialism%20Class%20and%20the%20Cypriot%20Left.pdf)
+4. 《20世纪30年代的塞浦路斯：英国殖民统治与塞浦路斯冲突的根源》（Cyprus in the 1930s British Colonial Rule and the Roots of the Cyprus Conflict by Alexis Rappas）[PDF](https://codeberg.org/comi/sharing/raw/commit/006a884ee3a3a90e7b3a4c0f8bc156c487398de9/2024-11/Cyprus%20in%20the%201930s%20British%20Colonial%20Rule%20and%20the%20Roots%20of%20the%20Cyprus%20Conflict%20by%20Alexis%20Rappas.pdf)
+5. 《20世纪英国通过教育在塞浦路斯推行殖民主义》（20th Century British Colonialism in Cyprus through Education）[PDF](https://codeberg.org/comi/sharing/raw/commit/006a884ee3a3a90e7b3a4c0f8bc156c487398de9/2024-11/20th%20Century%20British%20Colonialism%20in%20Cyprus%20through%20Education.pdf)
+6. [塞浦路斯及其在加沙和黎巴嫩战争中的隐藏角色-半岛新闻](https://chinese.aljazeera.net/news/political/2024/10/21/%E5%A1%9E%E6%B5%A6%E8%B7%AF%E6%96%AF%E5%8F%8A%E5%85%B6%E5%9C%A8%E5%8A%A0%E6%B2%99%E5%92%8C%E9%BB%8E%E5%B7%B4%E5%AB%A9%E6%88%98%E4%BA%89%E4%B8%AD%E7%9A%84%E9%9A%90%E8%97%8F%E8%A7%92%E8%89%B2)
+7. [塞浦路斯国家概况-中国外交部网站](https://www.mfa.gov.cn/web/gjhdq_676201/gj_676203/oz_678770/1206_679666/1206x0_679668/)
+8. [塞浦路斯共产主义政党要求政府停止与以色列合作-国际红色通讯](https://irn.red/posts/ms_20240812002/)
 
