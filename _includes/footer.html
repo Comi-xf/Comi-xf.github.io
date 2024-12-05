@@ -283,115 +283,118 @@
     // 初始化搜索实例
     let searchInstance = null;
 
-    // 初始化搜索功能
     function initSearch() {
-        try {
-            searchInstance = SimpleJekyllSearch({
-                searchInput: document.getElementById('search-input'),
-                resultsContainer: document.getElementById('search-results'),
-                json: '/search.json',
-                searchResultTemplate: '<div class="post-preview item"><a href="{url}"><h2 class="post-title">{title}</h2><h3 class="post-subtitle">{subtitle}</h3><hr></a></div>',
-                noResultsText: '没有找到相关结果',
-                limit: 50,
-                fuzzy: false,
-                // 默认搜索字段
-                searchFields: ['title', 'subtitle'],
-                templateMiddleware: function(prop, value, template) {
-                    if (prop === 'subtitle' || prop === 'title') {
-                        return value ? htmlDecode(value) : '';
-                    }
-                },
-                searchStrategy: function(searchTerm, item) {
-                    const searchType = document.querySelector('input[name="search-type"]:checked').value;
-                    const term = searchTerm.toLowerCase();
-                    
-                    // 确保所有要搜索的字段都存在且转换为小写
-                    const title = (item.title || '').toLowerCase();
-                    const subtitle = (item.subtitle || '').toLowerCase();
-                    const content = (item.content || '').toLowerCase();
-                    
-                    // 根据搜索类型设置搜索范围
-                    switch(searchType) {
-                        case 'title':
-                            return {
-                                matches: title.indexOf(term) !== -1 || subtitle.indexOf(term) !== -1,
-                                searchFields: ['title', 'subtitle']
-                            };
-                        
-                        case 'content':
-                            return {
-                                matches: content.indexOf(term) !== -1,
-                                searchFields: ['content']
-                            };
-                        
-                        case 'fuzzy':
-                            const fuzzyMatch = (str) => {
-                                if (!str) return false;
-                                let i = 0;
-                                for (let char of term) {
-                                    i = str.indexOf(char, i);
-                                    if (i === -1) return false;
-                                    i++;
-                                }
-                                return true;
-                            };
-                            
-                            return {
-                                matches: fuzzyMatch(title) || fuzzyMatch(subtitle) || fuzzyMatch(content),
-                                searchFields: ['title', 'subtitle', 'content']
-                            };
-                        
-                        default:
-                            return {
-                                matches: false,
-                                searchFields: []
-                            };
-                    }
-                }
-            });
+        searchInstance = SimpleJekyllSearch({
+            searchInput: document.getElementById('search-input'),
+            resultsContainer: document.getElementById('search-results'),
+            json: '/search.json',
+            searchResultTemplate: '<div class="post-preview item"><a href="{url}"><h2 class="post-title">{title}</h2><h3 class="post-subtitle">{subtitle}</h3><hr></a></div>',
+            noResultsText: '没有找到相关结果',
+            limit: 50,
+            fuzzy: false,
+            // 默认使用标题搜索
+            searchFields: ['title', 'subtitle'],
             
-            // 添加搜索模式切换的事件监听
-            document.querySelectorAll('input[name="search-type"]').forEach(radio => {
-                radio.addEventListener('change', function() {
-                    if (!searchInstance) {
-                        console.error('搜索实例未初始化');
-                        return;
-                    }
+            // 自定义搜索策略
+            searchStrategy: function(searchTerm, item) {
+                const searchType = document.querySelector('input[name="search-type"]:checked').value;
+                const term = searchTerm.toLowerCase();
+                
+                // 确保所有要搜索的字段都存在且转换为小写
+                const title = (item.title || '').toLowerCase();
+                const subtitle = (item.subtitle || '').toLowerCase();
+                const content = (item.content || '').toLowerCase();
+                
+                // 根据搜索类型设置搜索范围
+                switch(searchType) {
+                    case 'title':
+                        return {
+                            matches: title.indexOf(term) !== -1 || subtitle.indexOf(term) !== -1,
+                            searchFields: ['title', 'subtitle']
+                        };
                     
-                    try {
-                        // 获取当前选中的搜索类型
-                        const searchType = this.value;
+                    case 'content':
+                        return {
+                            matches: content.indexOf(term) !== -1,
+                            searchFields: ['content']
+                        };
+                    
+                    case 'fuzzy':
+                        const fuzzyMatch = (str) => {
+                            if (!str) return false;
+                            let i = 0;
+                            for (let char of term) {
+                                i = str.indexOf(char, i);
+                                if (i === -1) return false;
+                                i++;
+                            }
+                            return true;
+                        };
                         
-                        // 更新搜索字段
-                        const searchFields = 
-                            searchType === 'title' ? ['title', 'subtitle'] :
-                            searchType === 'content' ? ['content'] :
-                            ['title', 'subtitle', 'content'];
-                        
-                        // 更新搜索实例的配置
-                        searchInstance.setSearchFields(searchFields);
-                        
-                        // 触发搜索以更新结果
-                        const searchInput = document.getElementById('search-input');
-                        if (searchInput.value) {
+                        return {
+                            matches: fuzzyMatch(title) || fuzzyMatch(subtitle) || fuzzyMatch(content),
+                            searchFields: ['title', 'subtitle', 'content']
+                        };
+                    
+                    default:
+                        return {
+                            matches: false,
+                            searchFields: []
+                        };
+                }
+            }
+        });
+    }
+
+    // 页面加载完成后初始化搜索
+    document.addEventListener('DOMContentLoaded', function() {
+        initSearch();
+        
+        // 添加搜索模式切换的事件监听
+        const searchTypeRadios = document.querySelectorAll('input[name="search-type"]');
+        const searchInput = document.getElementById('search-input');
+        
+        searchTypeRadios.forEach(radio => {
+            radio.addEventListener('change', function() {
+                // 获取当前选中的搜索类型
+                const searchType = this.value;
+                
+                // 更新搜索字段
+                let newSearchFields;
+                switch(searchType) {
+                    case 'title':
+                        newSearchFields = ['title', 'subtitle'];
+                        break;
+                    case 'content':
+                        newSearchFields = ['content'];
+                        break;
+                    case 'fuzzy':
+                        newSearchFields = ['title', 'subtitle', 'content'];
+                        break;
+                    default:
+                        newSearchFields = ['title', 'subtitle'];
+                }
+                
+                // 如果搜索实例存在，更新搜索字段
+                if (searchInstance) {
+                    searchInstance.searchFields = newSearchFields;
+                    
+                    // 如果搜索框有内容，重新触发搜索
+                    if (searchInput.value.trim()) {
+                        // 使用 setTimeout 确保搜索字段更新后再触发搜索
+                        setTimeout(() => {
                             searchInput.dispatchEvent(new Event('input', {
                                 bubbles: true,
                                 cancelable: true
                             }));
-                        }
-                    } catch (error) {
-                        console.error('更新搜索类型时发生错误:', error);
+                        }, 0);
                     }
-                });
+                } else {
+                    console.warn('Search instance not initialized');
+                }
             });
-            
-        } catch (error) {
-            console.error('初始化搜索功能时发生错误:', error);
-        }
-    }
-
-    // 确保 DOM 加载完成后再初始化搜索
-    document.addEventListener('DOMContentLoaded', initSearch);
+        });
+    });
 
     $(document).ready(function () {
         var $searchPage = $('.search-page');
