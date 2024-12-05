@@ -288,6 +288,8 @@
         noResultsText: '没有找到相关结果',
         limit: 50,
         fuzzy: false,
+        // 定义可搜索的字段
+        searchFields: ['title', 'subtitle', 'content'],
         templateMiddleware: function (prop, value, template) {
             if (prop === 'subtitle' || prop === 'title') {
                 if (value.indexOf("code")) {
@@ -306,15 +308,23 @@
             const subtitle = (item.subtitle || '').toLowerCase();
             const content = (item.content || '').toLowerCase();
             
+            // 根据搜索类型设置搜索范围
             switch(searchType) {
                 case 'title':
                     // 严格限制只搜索标题和副标题
-                    return title.indexOf(term) !== -1 || 
-                           subtitle.indexOf(term) !== -1;
+                    return {
+                        matches: title.indexOf(term) !== -1 || subtitle.indexOf(term) !== -1,
+                        // 明确指定只搜索这些字段
+                        searchFields: ['title', 'subtitle']
+                    };
                 
                 case 'content':
                     // 只搜索文章内容
-                    return content.indexOf(term) !== -1;
+                    return {
+                        matches: content.indexOf(term) !== -1,
+                        // 明确指定只搜索内容
+                        searchFields: ['content']
+                    };
                 
                 case 'fuzzy':
                     // 模糊搜索所有字段
@@ -329,12 +339,17 @@
                         return true;
                     };
                     
-                    return fuzzyMatch(title) || 
-                           fuzzyMatch(subtitle) || 
-                           fuzzyMatch(content);
+                    return {
+                        matches: fuzzyMatch(title) || fuzzyMatch(subtitle) || fuzzyMatch(content),
+                        // 允许搜索所有字段
+                        searchFields: ['title', 'subtitle', 'content']
+                    };
                 
                 default:
-                    return false;
+                    return {
+                        matches: false,
+                        searchFields: []
+                    };
             }
         }
     });
@@ -342,6 +357,12 @@
     // 添加搜索模式切换的事件监听
     document.querySelectorAll('input[name="search-type"]').forEach(radio => {
         radio.addEventListener('change', function() {
+            // 重置搜索字段
+            SimpleJekyllSearch.prototype.searchFields = 
+                this.value === 'title' ? ['title', 'subtitle'] :
+                this.value === 'content' ? ['content'] :
+                ['title', 'subtitle', 'content'];
+                
             // 触发搜索输入框的 input 事件来更新搜索结果
             document.getElementById('search-input').dispatchEvent(new Event('input'));
         });
