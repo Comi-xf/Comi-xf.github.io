@@ -301,33 +301,37 @@
             const searchType = document.querySelector('input[name="search-type"]:checked').value;
             const term = searchTerm.toLowerCase();
             
+            // 确保所有要搜索的字段都存在且转换为小写
+            const title = (item.title || '').toLowerCase();
+            const subtitle = (item.subtitle || '').toLowerCase();
+            const content = (item.content || '').toLowerCase();
+            
             switch(searchType) {
                 case 'title':
-                    // 只搜索标题和副标题
-                    return (item.title && item.title.toLowerCase().indexOf(term) !== -1) || 
-                           (item.subtitle && item.subtitle.toLowerCase().indexOf(term) !== -1);
+                    // 严格限制只搜索标题和副标题
+                    return title.indexOf(term) !== -1 || 
+                           subtitle.indexOf(term) !== -1;
                 
                 case 'content':
-                    // 全文搜索
-                    return (item.content && item.content.toLowerCase().indexOf(term) !== -1);
+                    // 只搜索文章内容
+                    return content.indexOf(term) !== -1;
                 
                 case 'fuzzy':
-                    // 模糊搜索
+                    // 模糊搜索所有字段
                     const fuzzyMatch = (str) => {
                         if (!str) return false;
                         let i = 0;
-                        const searchChars = term.split('');
-                        for (let char of searchChars) {
-                            i = str.toLowerCase().indexOf(char, i);
+                        for (let char of term) {
+                            i = str.indexOf(char, i);
                             if (i === -1) return false;
                             i++;
                         }
                         return true;
                     };
                     
-                    return fuzzyMatch(item.title) || 
-                           fuzzyMatch(item.subtitle) ||
-                           fuzzyMatch(item.content);
+                    return fuzzyMatch(title) || 
+                           fuzzyMatch(subtitle) || 
+                           fuzzyMatch(content);
                 
                 default:
                     return false;
