@@ -292,12 +292,11 @@
             noResultsText: '没有找到相关结果',
             limit: 50,
             fuzzy: false,
-            // 默认使用标题搜索
-            searchFields: ['title', 'subtitle'],
+            // 搜索所有字段
+            searchFields: ['title', 'subtitle', 'content'],
             
-            // 自定义搜索策略
+            // 简单的搜索策略
             searchStrategy: function(searchTerm, item) {
-                const searchType = document.querySelector('input[name="search-type"]:checked').value;
                 const term = searchTerm.toLowerCase();
                 
                 // 确保所有要搜索的字段都存在且转换为小写
@@ -305,43 +304,13 @@
                 const subtitle = (item.subtitle || '').toLowerCase();
                 const content = (item.content || '').toLowerCase();
                 
-                // 根据搜索类型设置搜索范围
-                switch(searchType) {
-                    case 'title':
-                        return {
-                            matches: title.indexOf(term) !== -1 || subtitle.indexOf(term) !== -1,
-                            searchFields: ['title', 'subtitle']
-                        };
-                    
-                    case 'content':
-                        return {
-                            matches: content.indexOf(term) !== -1,
-                            searchFields: ['content']
-                        };
-                    
-                    case 'fuzzy':
-                        const fuzzyMatch = (str) => {
-                            if (!str) return false;
-                            let i = 0;
-                            for (let char of term) {
-                                i = str.indexOf(char, i);
-                                if (i === -1) return false;
-                                i++;
-                            }
-                            return true;
-                        };
-                        
-                        return {
-                            matches: fuzzyMatch(title) || fuzzyMatch(subtitle) || fuzzyMatch(content),
-                            searchFields: ['title', 'subtitle', 'content']
-                        };
-                    
-                    default:
-                        return {
-                            matches: false,
-                            searchFields: []
-                        };
-                }
+                // 在所有字段中搜索
+                return {
+                    matches: title.indexOf(term) !== -1 || 
+                            subtitle.indexOf(term) !== -1 || 
+                            content.indexOf(term) !== -1,
+                    searchFields: ['title', 'subtitle', 'content']
+                };
             }
         });
     }
@@ -349,51 +318,6 @@
     // 页面加载完成后初始化搜索
     document.addEventListener('DOMContentLoaded', function() {
         initSearch();
-        
-        // 添加搜索模式切换的事件监听
-        const searchTypeRadios = document.querySelectorAll('input[name="search-type"]');
-        const searchInput = document.getElementById('search-input');
-        
-        searchTypeRadios.forEach(radio => {
-            radio.addEventListener('change', function() {
-                // 获取当前选中的搜索类型
-                const searchType = this.value;
-                
-                // 更新搜索字段
-                let newSearchFields;
-                switch(searchType) {
-                    case 'title':
-                        newSearchFields = ['title', 'subtitle'];
-                        break;
-                    case 'content':
-                        newSearchFields = ['content'];
-                        break;
-                    case 'fuzzy':
-                        newSearchFields = ['title', 'subtitle', 'content'];
-                        break;
-                    default:
-                        newSearchFields = ['title', 'subtitle'];
-                }
-                
-                // 如果搜索实例存在，更新搜索字段
-                if (searchInstance) {
-                    searchInstance.searchFields = newSearchFields;
-                    
-                    // 如果搜索框有内容，重新触发搜索
-                    if (searchInput.value.trim()) {
-                        // 使用 setTimeout 确保搜索字段更新后再触发搜索
-                        setTimeout(() => {
-                            searchInput.dispatchEvent(new Event('input', {
-                                bubbles: true,
-                                cancelable: true
-                            }));
-                        }, 0);
-                    }
-                } else {
-                    console.warn('Search instance not initialized');
-                }
-            });
-        });
     });
 
     $(document).ready(function () {
