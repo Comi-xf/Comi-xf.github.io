@@ -292,7 +292,7 @@ pre.highlight {
   font-style: italic;
 }
 .highlight .err {
-  color: #960050; /* 错误文本颜色，目前为红色 */
+  color: #960050; /* 错误文本颜��，目前为红色 */
   background-color: #1e0010; /* 错误背景颜色，目前为深红色 */
 }
 .language-coq .highlight .err {
@@ -738,7 +738,7 @@ samp {
   margin-bottom: 15px;
 }
 .post-container a {
-  color: #337ab7; /* 文章链接颜色，目前为蓝色 */
+  color: #337ab7; /* 文章链接颜色，���前为蓝色 */
 }
 .post-container a:hover,
 .post-container a:focus {
@@ -1084,7 +1084,7 @@ samp {
 .intro-header .post-heading,
 .intro-header .page-heading {
   padding: 85px 0 55px;
-  color: white; /* 介绍头部文本颜色，目前为白色 */
+  color: white; /* 介绍头部文本颜色，目前为��色 */
 }
 @media only screen and (min-width: 768px) {
   .intro-header .site-heading,
@@ -1605,4 +1605,15 @@ img::-moz-selection {
 }
 .no-scroll {
   overflow-y: hidden;
+}
+.search-options {
+    margin: 10px 0;
+    font-size: 14px;
+}
+.search-options label {
+    margin-right: 20px;
+    cursor: pointer;
+}
+.search-options input[type="radio"] {
+    margin-right: 5px;
 }

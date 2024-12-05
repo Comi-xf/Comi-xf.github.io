@@ -9,6 +9,17 @@
     <div class="row">
       <div class="col-lg-8 col-lg-offset-2 col-md-10 col-md-offset-1">
         <form></form>
+        <div class="search-options">
+          <label>
+            <input type="radio" name="search-type" value="title" checked> 标题搜索
+          </label>
+          <label>
+            <input type="radio" name="search-type" value="content"> 全文搜索
+          </label>
+          <label>
+            <input type="radio" name="search-type" value="fuzzy"> 模糊搜索
+          </label>
+        </div>
         <input type="text" id="search-input" placeholder="$ grep...">
         </form>
         <div id="search-results" class="mini-post-list"></div>

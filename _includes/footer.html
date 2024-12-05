@@ -285,11 +285,9 @@
         resultsContainer: document.getElementById('search-results'),
         json: '/search.json',
         searchResultTemplate: '<div class="post-preview item"><a href="{url}"><h2 class="post-title">{title}</h2><h3 class="post-subtitle">{subtitle}</h3><hr></a></div>',
-        noResultsText: 'No results',
+        noResultsText: '没有找到相关结果',
         limit: 50,
         fuzzy: false,
-        // a hack to get escaped subtitle unescaped. for some reason, 
-        // post.subtitle w/o escape filter nuke entire search.
         templateMiddleware: function (prop, value, template) {
             if (prop === 'subtitle' || prop === 'title') {
                 if (value.indexOf("code")) {
@@ -297,6 +295,32 @@
                 } else {
                     return value;
                 }
+            }
+        },
+        searchStrategy: function(searchTerm, data) {
+            const searchType = document.querySelector('input[name="search-type"]:checked').value;
+            const term = searchTerm.toLowerCase();
+            
+            if (searchType === 'title') {
+                return data.title.toLowerCase().indexOf(term) !== -1 ||
+                       data.subtitle.toLowerCase().indexOf(term) !== -1;
+            } 
+            else if (searchType === 'content') {
+                return data.content.toLowerCase().indexOf(term) !== -1;
+            }
+            else if (searchType === 'fuzzy') {
+                const fuzzyMatch = (str) => {
+                    let i = 0;
+                    for (let char of term) {
+                        i = str.indexOf(char, i);
+                        if (i === -1) return false;
+                        i++;
+                    }
+                    return true;
+                };
+                
+                return fuzzyMatch(data.title.toLowerCase()) || 
+                       fuzzyMatch(data.content.toLowerCase());
             }
         }
     });
