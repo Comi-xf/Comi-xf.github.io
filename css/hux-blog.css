@@ -292,7 +292,7 @@ pre.highlight {
   font-style: italic;
 }
 .highlight .err {
-  color: #960050; /* 错误文本颜��，目前为红色 */
+  color: #960050; /* 错误文本颜，目前为红色 */
   background-color: #1e0010; /* 错误背景颜色，目前为深红色 */
 }
 .language-coq .highlight .err {
@@ -445,7 +445,7 @@ pre.highlight {
   color: #98c379; /* 字符串颜色，目前为绿色 */
 }
 .highlight .sx {
-  color: #98c379; /* 字符串颜色，目前为绿色 */
+  color: #98c379; /* 字符串颜色，目���为绿色 */
 }
 .highlight .sr {
   color: #56b6c2; /* 正则表达式颜色，目前为青色 */
@@ -738,7 +738,7 @@ samp {
   margin-bottom: 15px;
 }
 .post-container a {
-  color: #337ab7; /* 文章链接颜色，���前为蓝色 */
+  color: #337ab7; /* 文章链接颜色，前为蓝色 */
 }
 .post-container a:hover,
 .post-container a:focus {
@@ -1084,7 +1084,7 @@ samp {
 .intro-header .post-heading,
 .intro-header .page-heading {
   padding: 85px 0 55px;
-  color: white; /* 介绍头部文本颜色，目前为��色 */
+  color: white; /* 介绍头部文本颜色，目前为白色 */
 }
 @media only screen and (min-width: 768px) {
   .intro-header .site-heading,
@@ -1351,7 +1351,7 @@ footer .copyright a:focus {
   background: #007b8a; /* 选中文本背景颜色，目前为蓝绿色 */
 }
 ::selection {
-  color: white; /* 选中文本颜色，目前为白色 */
+  color: white; /* 选中文本颜色，目前为��色 */
   text-shadow: none;
   background: #007b8a; /* 选中文本背景颜色，目前为蓝绿色 */
 }
@@ -1607,13 +1607,23 @@ img::-moz-selection {
   overflow-y: hidden;
 }
 .search-options {
-    margin: 10px 0;
-    font-size: 14px;
+    margin: 20px 0;
+    text-align: center;
 }
+
 .search-options label {
-    margin-right: 20px;
+    display: inline-block;
+    margin: 0 15px;
     cursor: pointer;
+    font-size: 14px;
+    color: #404040;
 }
+
 .search-options input[type="radio"] {
     margin-right: 5px;
+    vertical-align: middle;
+}
+
+.search-options label:hover {
+    color: #337ab7;
 }

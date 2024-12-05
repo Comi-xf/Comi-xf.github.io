@@ -301,26 +301,35 @@
             const searchType = document.querySelector('input[name="search-type"]:checked').value;
             const term = searchTerm.toLowerCase();
             
-            if (searchType === 'title') {
-                return data.title.toLowerCase().indexOf(term) !== -1 ||
-                       data.subtitle.toLowerCase().indexOf(term) !== -1;
-            } 
-            else if (searchType === 'content') {
-                return data.content.toLowerCase().indexOf(term) !== -1;
-            }
-            else if (searchType === 'fuzzy') {
-                const fuzzyMatch = (str) => {
-                    let i = 0;
-                    for (let char of term) {
-                        i = str.indexOf(char, i);
-                        if (i === -1) return false;
-                        i++;
-                    }
-                    return true;
-                };
+            switch(searchType) {
+                case 'title':
+                    // 只搜索标题和副标题
+                    return data.title.toLowerCase().indexOf(term) !== -1 || 
+                           (data.subtitle && data.subtitle.toLowerCase().indexOf(term) !== -1);
                 
-                return fuzzyMatch(data.title.toLowerCase()) || 
-                       fuzzyMatch(data.content.toLowerCase());
+                case 'content':
+                    // 全文搜索
+                    return data.content.toLowerCase().indexOf(term) !== -1;
+                
+                case 'fuzzy':
+                    // 模糊搜索
+                    const fuzzyMatch = (str) => {
+                        let i = 0;
+                        const searchChars = term.split('');
+                        for (let char of searchChars) {
+                            i = str.indexOf(char, i);
+                            if (i === -1) return false;
+                            i++;
+                        }
+                        return true;
+                    };
+                    
+                    return fuzzyMatch(data.title.toLowerCase()) || 
+                           (data.subtitle && fuzzyMatch(data.subtitle.toLowerCase())) ||
+                           fuzzyMatch(data.content.toLowerCase());
+                
+                default:
+                    return false;
             }
         }
     });
