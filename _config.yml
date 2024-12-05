@@ -104,10 +104,16 @@ valine_comment:
   enable: true
   leancloud_appid: gpuuSTfxnMwXabE9LfiRiraa-MdYXbMMI
   leancloud_appkey: 0S7xs9qLLUAhmF2V26BN685W
-  placeholder: 说点什么吧...
-  avatar: mm
-  guest_info: nick,mail,link
+  placeholder: "说点什么吧..."
+  avatar: "monsterid"
+  meta: ['nick','mail']  # 只保留昵称和邮箱
   pageSize: 10
+  lang: 'zh-CN'
   visitor: true
   highlight: true
   recordIP: false
+  serverURLs: 
+  enableQQ: false
+  requiredFields: ['nick','mail']  # 设置必填项
+  emojiCDN: ''  # 可以设置自定义表情
+  emojiMaps: {}

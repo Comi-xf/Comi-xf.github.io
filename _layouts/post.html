@@ -49,11 +49,10 @@ layout: default
                 <hr style="visibility: hidden;">
 
                 {% if site.valine_comment.enable %}
-                <!-- Valine 评论框 start -->
+                <!-- Valine 评论框 -->
                 <div class="comment">
                     <div id="vcomments"></div>
                 </div>
-                <!-- Valine 评论框 end -->
 
                 <!-- Valine 评论系统 -->
                 <script src='//unpkg.com/valine/dist/Valine.min.js'></script>
@@ -64,13 +63,15 @@ layout: default
                         appKey: '{{ site.valine_comment.leancloud_appkey }}',
                         placeholder: '{{ site.valine_comment.placeholder }}',
                         avatar: '{{ site.valine_comment.avatar }}',
-                        meta: ['nick','mail','link'],
-                        pageSize: {{ site.valine_comment.pageSize }},
-                        lang: 'zh-CN',
-                        visitor: {{ site.valine_comment.visitor }},
-                        highlight: {{ site.valine_comment.highlight }},
-                        recordIP: {{ site.valine_comment.recordIP }},
-                        enableQQ: true
+                        meta: ['nick', 'mail'],
+                        pageSize: '{{ site.valine_comment.pageSize }}',
+                        lang: '{{ site.valine_comment.lang }}',
+                        visitor: '{{ site.valine_comment.visitor }}',
+                        highlight: '{{ site.valine_comment.highlight }}',
+                        recordIP: '{{ site.valine_comment.recordIP }}',
+                        serverURLs: '{{ site.valine_comment.serverURLs }}',
+                        enableQQ: false,
+                        requiredFields: ['nick', 'mail']
                     });
                 </script>
                 {% endif %}
