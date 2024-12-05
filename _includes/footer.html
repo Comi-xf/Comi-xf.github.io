@@ -297,41 +297,50 @@
                 }
             }
         },
-        searchStrategy: function(searchTerm, data) {
+        searchStrategy: function(searchTerm, item) {
             const searchType = document.querySelector('input[name="search-type"]:checked').value;
             const term = searchTerm.toLowerCase();
             
             switch(searchType) {
                 case 'title':
                     // 只搜索标题和副标题
-                    return data.title.toLowerCase().indexOf(term) !== -1 || 
-                           (data.subtitle && data.subtitle.toLowerCase().indexOf(term) !== -1);
+                    return (item.title && item.title.toLowerCase().indexOf(term) !== -1) || 
+                           (item.subtitle && item.subtitle.toLowerCase().indexOf(term) !== -1);
                 
                 case 'content':
                     // 全文搜索
-                    return data.content.toLowerCase().indexOf(term) !== -1;
+                    return (item.content && item.content.toLowerCase().indexOf(term) !== -1);
                 
                 case 'fuzzy':
                     // 模糊搜索
                     const fuzzyMatch = (str) => {
+                        if (!str) return false;
                         let i = 0;
                         const searchChars = term.split('');
                         for (let char of searchChars) {
-                            i = str.indexOf(char, i);
+                            i = str.toLowerCase().indexOf(char, i);
                             if (i === -1) return false;
                             i++;
                         }
                         return true;
                     };
                     
-                    return fuzzyMatch(data.title.toLowerCase()) || 
-                           (data.subtitle && fuzzyMatch(data.subtitle.toLowerCase())) ||
-                           fuzzyMatch(data.content.toLowerCase());
+                    return fuzzyMatch(item.title) || 
+                           fuzzyMatch(item.subtitle) ||
+                           fuzzyMatch(item.content);
                 
                 default:
                     return false;
             }
         }
+    });
+
+    // 添加搜索模式切换的事件监听
+    document.querySelectorAll('input[name="search-type"]').forEach(radio => {
+        radio.addEventListener('change', function() {
+            // 触发搜索输入框的 input 事件来更新搜索结果
+            document.getElementById('search-input').dispatchEvent(new Event('input'));
+        });
     });
 
     $(document).ready(function () {
