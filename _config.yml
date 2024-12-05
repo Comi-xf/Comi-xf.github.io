@@ -60,10 +60,7 @@ kramdown:
       start_line: 1
 
 # Disqus settings
-disqus_username: COMI
-
-# Netease settings
-netease_comment: false
+disqus_username: false  # 改为 false 来禁用
 
 # Analytics settings
 # Baidu Analytics
@@ -101,3 +98,16 @@ friends:
     href: "https://space.bilibili.com/3546583746481059/"
   - title: "解读资本论"
     href: "https://space.bilibili.com/381656061/"
+
+# Valine settings
+valine_comment:
+  enable: true
+  leancloud_appid: gpuuSTfxnMwXabE9LfiRiraa-MdYXbMMI
+  leancloud_appkey: 0S7xs9qLLUAhmF2V26BN685W
+  placeholder: 说点什么吧...
+  avatar: mm
+  guest_info: nick,mail,link
+  pageSize: 10
+  visitor: true
+  highlight: true
+  recordIP: false
