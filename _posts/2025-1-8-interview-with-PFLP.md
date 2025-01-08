@@ -1,7 +1,7 @@
 ---
 layout:     post
 title:     "采访 PFLP 干部 (Part.1)"
-subtitle:   "菲律宾共产党 中央委员会"
+subtitle:   ""
 date:       2025-1-8
 author:     "Comi"
 catalog:    true
