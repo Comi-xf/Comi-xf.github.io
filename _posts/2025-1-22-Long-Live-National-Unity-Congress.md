@@ -2,7 +2,7 @@
 layout:     post
 title:     "全国统一大会万岁"
 subtitle:   "尼革共于2024年11月28日至12月8日在加德满都成功隆重召开了全国统一大会"
-date:       2025-1-23
+date:       2025-1-22
 author:     "Comi"
 catalog:    true
 header-img: "img/rcpn-uc1.jpg"
@@ -60,4 +60,4 @@ tags:
 
 作者：巴桑塔 (Basanta)
 
-[原文PDF](https://ipfs.cyou/ipfs/QmeutTqja9KqpYweshEfP88idiKMzgAAAznzdMke3ZVYnz)
+[原文PDF](https://www.bannedthought.net/Nepal/CPN-Maoist/2024/RCN-UnityCongress-Eng.pdf)
