@@ -5,7 +5,7 @@ subtitle:   "Indian Maoist Organizational Structure Chart"
 date:       2025-2-19
 author:     "Comi"
 catalog:    true
-header-img: "img/印度共产党（毛主义）.png"
+header-img: "img/cpim.png"
 tags:
     - 印度共产党（毛主义）
     - 组织结构
