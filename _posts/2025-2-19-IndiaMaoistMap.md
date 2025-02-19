@@ -13,7 +13,7 @@ tags:
 ---
 
 <div style="text-align: center;">
-  <img src="https://i.pstorage.space/i/xlzAMkQK3/original_%E5%8D%B0%E5%BA%A6%E5%85%B1%E4%BA%A7%E5%85%9A%EF%BC%88%E6%AF%9B%E4%B8%BB%E4%B9%89%EF%BC%89.png" alt="图片"/>
+  <img src="https://codeberg.org/comi/PostIMG/raw/commit/dbec723ba9cae9d6bb52a6d11478dbdc026d7673/IMGs/cpim-v1.44.png" alt="图片"/>
   <p>
     双击放大
   </p>
@@ -22,11 +22,11 @@ tags:
 
 ---
 
-![](https://i.pstorage.space/i/xlzAMkQK3/original_%E5%8D%B0%E5%BA%A6%E5%85%B1%E4%BA%A7%E5%85%9A%EF%BC%88%E6%AF%9B%E4%B8%BB%E4%B9%89%EF%BC%89.png)
+![](https://codeberg.org/comi/PostIMG/raw/commit/dbec723ba9cae9d6bb52a6d11478dbdc026d7673/IMGs/cpim-v1.44.png)
 
 ---
 
-![](.../img/cpim.png)
+![](../img/cpim.png)
 
 ---
 
