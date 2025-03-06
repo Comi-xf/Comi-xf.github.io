@@ -5,7 +5,7 @@ subtitle:   "Notes on the Russia-Ukraine War"
 date:       2025-3-6
 author:     "Comi"
 catalog:    true
-header-img: "img/er.jpg"
+header-img: "img/er.png"
 tags:
     - 俄乌战争
     - 俄罗斯
