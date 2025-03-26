@@ -2,7 +2,7 @@
 layout:     post
 title:      "中国女性审美流变中的身体政治"
 subtitle:   ""
-date:       2025-3-6
+date:       2025-3-26
 author:     "Comi"
 catalog:    true
 header-img: "img/wm1.jpg"
