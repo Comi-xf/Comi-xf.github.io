@@ -9,7 +9,7 @@ url: "https://comi.nets.hk" # your host, for absolute URL
 baseurl: "" # for example, '/blog' if your blog hosted on 'host/blog'
 # Publish posts or collection documents with a future date.
 future: true
-
+encoding: utf-8
 # SNS settings
 RSS: true
 # weibo_username: null
