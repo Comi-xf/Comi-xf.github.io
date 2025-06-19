@@ -1,0 +1,31 @@
+/* 修复链接溢出问题 */
+.post-container a {
+    word-wrap: break-word;
+    word-break: break-all;
+    overflow-wrap: break-word;
+    hyphens: auto;
+}
+
+/* 对于代码块中的链接，使用更温和的换行方式 */
+.post-container pre a,
+.post-container code a {
+    word-break: break-all;
+    white-space: pre-wrap;
+}
+
+/* 确保表格中的链接也能正确换行 */
+.post-container table a {
+    word-wrap: break-word;
+    word-break: break-word;
+    max-width: 100%;
+    display: inline-block;
+}
+
+/* 对于特别长的URL，可以添加省略号显示 */
+.post-container .long-url {
+    max-width: 100%;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    white-space: nowrap;
+    display: inline-block;
+}
