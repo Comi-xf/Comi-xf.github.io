@@ -14,6 +14,6 @@ tags:
 
 ---
 
-<img id="myImage" src="https://comi.nets.hk/img/cpim.png" alt="示例图片" style="cursor: pointer; width: 100%; max-width: 600px;">
+<img id="myImage" src="https://comi.ciao.su/img/cpim.png" alt="示例图片" style="cursor: pointer; width: 100%; max-width: 600px;">
 
-图片URL：https://comi.nets.hk/img/cpim.png
+图片URL：https://comi.ciao.su/img/cpim.png
